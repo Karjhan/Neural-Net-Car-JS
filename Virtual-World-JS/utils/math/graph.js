@@ -23,6 +23,10 @@ class Graph{
         }
     }
 
+    hash(){
+        return JSON.stringify(this);
+    }
+
     tryAddPoint(point){
         if(!this.containsPoint(point)){
             this.addPoint(point);
