@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<head>
+    <title>Self-driving-car - No librariers</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="../virtual-world-utils/world.js" defer></script>
+    <script src="../virtual-world-utils/markings/marking.js" defer></script>
+    <script src="../virtual-world-utils/markings/stop.js" defer></script>
+    <script src="../virtual-world-utils/markings/start.js" defer></script>
+    <script src="../virtual-world-utils/markings/crossing.js" defer></script>
+    <script src="../virtual-world-utils/markings/light.js" defer></script>
+    <script src="../virtual-world-utils/markings/parking.js" defer></script>
+    <script src="../virtual-world-utils/markings/target.js" defer></script>
+    <script src="../virtual-world-utils/markings/yield.js" defer></script>
+    <script src="../virtual-world-utils/editors/markingEditor.js" defer></script>
+    <script src="../virtual-world-utils/editors/graphEditor.js" defer></script>
+    <script src="../virtual-world-utils/editors/stopEditor.js" defer></script>
+    <script src="../virtual-world-utils/editors/crossingEditor.js" defer></script>
+    <script src="../virtual-world-utils/editors/lightEditor.js" defer></script>
+    <script src="../virtual-world-utils/editors/parkingEditor.js" defer></script>
+    <script src="../virtual-world-utils/editors/startEditor.js" defer></script>
+    <script src="../virtual-world-utils/editors/targetEditor.js" defer></script>
+    <script src="../virtual-world-utils/editors/yieldEditor.js" defer></script>
+    <script src="../virtual-world-utils/viewport.js" defer></script>
+    <script src="../virtual-world-utils/items/tree.js" defer></script>
+    <script src="../virtual-world-utils/items/building.js" defer></script>
+    <script src="../virtual-world-utils/math/utils.js" defer></script>
+    <script src="../virtual-world-utils/math/graph.js" defer></script>
+    <script src="../virtual-world-utils/primitives/point.js" defer></script>
+    <script src="../virtual-world-utils/primitives/segment.js" defer></script>
+    <script src="../virtual-world-utils/primitives/polygon.js" defer></script>
+    <script src="../virtual-world-utils/primitives/envelope.js" defer></script>    
+
+    <script src="../self-driving-utils/utils.js" defer></script>
+    <script src="../self-driving-utils/network.js" defer></script>
+    <script src="../self-driving-utils/visualizer.js" defer></script>
+    <script src="../self-driving-utils/models/car.js" defer></script>
+    <script src="../self-driving-utils/models/controls.js" defer></script>
+    <script src="../self-driving-utils/models/sensor.js" defer></script>
+    <script src="main.js" defer></script>
+</head>
+<body>
+    <canvas id="carCanvas"></canvas>
+    <div id="verticalButtons">
+        <button onclick="save()">💾</button>
+        <button onclick="discard()">🗑️</button>
+    </div>
+    <canvas id="networkCanvas"></canvas>
+</body>
