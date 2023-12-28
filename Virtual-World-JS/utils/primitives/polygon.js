@@ -9,6 +9,10 @@ class Polygon{
         }
     }
 
+    static load(info){
+        return new Polygon(info.points.map((p) => new Point(p.x, p.y)));
+    }
+
     static union(polys) {
         Polygon.multiBreak(polys);
         const keptSegments = [];
@@ -98,7 +102,7 @@ class Polygon{
         for (const seg of this.segments) {
            seg.draw(ctx, { color: getRandomColor(), width: 5 });
         }
-     }
+    }
 
     draw(ctx, {stroke = "blue", lineWidth = 2, fill = "rgba(0,0,255,0.3)"} = {}){
         ctx.beginPath();
