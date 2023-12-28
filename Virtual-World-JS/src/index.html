@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>World Editor</title>
+        <link rel="stylesheet" href="style.css"/>
+        <script src="../utils/world.js" defer></script>
+        <script src="../utils/markings/marking.js" defer></script>
+        <script src="../utils/markings/stop.js" defer></script>
+        <script src="../utils/markings/start.js" defer></script>
+        <script src="../utils/markings/crossing.js" defer></script>
+        <script src="../utils/markings/light.js" defer></script>
+        <script src="../utils/markings/parking.js" defer></script>
+        <script src="../utils/markings/target.js" defer></script>
+        <script src="../utils/markings/yield.js" defer></script>
+        <script src="../utils/editors/markingEditor.js" defer></script>
+        <script src="../utils/editors/graphEditor.js" defer></script>
+        <script src="../utils/editors/stopEditor.js" defer></script>
+        <script src="../utils/editors/crossingEditor.js" defer></script>
+        <script src="../utils/editors/lightEditor.js" defer></script>
+        <script src="../utils/editors/parkingEditor.js" defer></script>
+        <script src="../utils/editors/startEditor.js" defer></script>
+        <script src="../utils/editors/targetEditor.js" defer></script>
+        <script src="../utils/editors/yieldEditor.js" defer></script>
+        <script src="../utils/viewport.js" defer></script>
+        <script src="../utils/items/tree.js" defer></script>
+        <script src="../utils/items/building.js" defer></script>
+        <script src="../utils/math/utils.js" defer></script>
+        <script src="../utils/math/graph.js" defer></script>
+        <script src="../utils/primitives/point.js" defer></script>
+        <script src="../utils/primitives/segment.js" defer></script>
+        <script src="../utils/primitives/polygon.js" defer></script>
+        <script src="../utils/primitives/envelope.js" defer></script>
+        <script src="main.js" defer></script>
+    </head>
+    <body>
+        <h1>World Editor</h1>
+        <canvas id="myCanvas"></canvas>
+        <div id="controls">
+            <!-- <button onclick="addRandomPoint()">Add Point</button>
+            <button onclick="addRandomSegment()">Add Segment</button>
+            <button onclick="removeRandomSegment()">Remove Segment</button>
+            <button onclick="removeRandomPoint()">Remove Point</button>
+            <button onclick="removeAll()">Remove All</button> -->
+            <button onclick="dispose()">🗑️</button>
+            <button onclick="save()">💾</button>
+            &nbsp;
+            <button id="graphBtn" onclick="setMode('graph')">🌐</button>
+            <button id="stopBtn" onclick="setMode('stop')">🛑</button>
+            <button id="yieldBtn" onclick="setMode('yield')">⚠️</button>
+            <button id="crossingBtn" onclick="setMode('crossing')">🚶</button>
+            <button id="parkingBtn" onclick="setMode('parking')">🅿️</button>
+            <button id="lightBtn" onclick="setMode('light')">🚦</button>
+            <button id="startBtn" onclick="setMode('start')">🚙</button>
+            <button id="targetBtn" onclick="setMode('target')">🎯</button>
+        </div>
+    </body>
+</html>

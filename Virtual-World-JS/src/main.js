@@ -1,3 +1,12 @@
+const buttonGraph = document.getElementById("graphBtn");
+const buttonStop = document.getElementById("stopBtn");
+const buttonYield = document.getElementById("yieldBtn");
+const buttonCrossing = document.getElementById("crossingBtn");
+const buttonParking = document.getElementById("parkingBtn");
+const buttonLight = document.getElementById("lightBtn");
+const buttonStart = document.getElementById("startBtn");
+const buttonTarget = document.getElementById("targetBtn");
+
 const mainCanvas = document.getElementById("myCanvas");
 mainCanvas.width = 600;
 mainCanvas.height = 600;
@@ -8,11 +17,22 @@ const graphString = localStorage.getItem("graph");
 const graphInfo = graphString ? JSON.parse(graphString) : null;
 const graph = graphInfo ? Graph.load(graphInfo) : new Graph();
 const world = new World(graph);
+
 const viewport = new Viewport(mainCanvas);
-const graphEditor = new GraphEditor(viewport, graph);
+const tools = {
+    graph: { button: graphBtn, editor: new GraphEditor(viewport, graph) },
+    stop: { button: stopBtn, editor: new StopEditor(viewport, world) },
+    crossing: { button: crossingBtn, editor: new CrossingEditor(viewport, world) },
+    start: { button: startBtn, editor: new StartEditor(viewport, world) },
+    parking: { button: parkingBtn, editor: new ParkingEditor(viewport, world) },
+    light: { button: lightBtn, editor: new LightEditor(viewport, world) },
+    target: { button: targetBtn, editor: new TargetEditor(viewport, world) },
+    yield: { button: yieldBtn, editor: new YieldEditor(viewport, world) },
+};
 
 graph.draw(mainContext);
 let oldGraphHash = graph.hash();
+setMode("graph");
 animate();
 
 function animate(){
@@ -24,19 +44,37 @@ function animate(){
     const viewPoint = scale(viewport.getOffset(), -1);
     world.draw(mainContext, viewPoint);
     mainContext.globalAlpha = 0.3;
-    graphEditor.display();
+    for (const tool of Object.values(tools)) {
+        tool.editor.display();
+    }
     requestAnimationFrame(animate);
 }
 
-// ------------------------------------------------------------------ //
+function setMode(mode){
+    disableEditors();
+    tools[mode].button.style.backgroundColor = "white";
+    tools[mode].button.style.filter = "";
+    tools[mode].editor.enable();    
+}
+
+function disableEditors(){
+    for (const tool of Object.values(tools)) {
+        tool.button.style.backgroundColor = "gray";
+        tool.button.style.filter = "grayscale(100%)";
+        tool.editor.disable();
+    }
+}
 
 function dispose(){
     graphEditor.dispose();
+    world.markings.length = 0;
 }
 
 function save(){
     localStorage.setItem("graph", JSON.stringify(graph));
 }
+
+// ------------------------------------------------------------------ //
 
 function addRandomPoint(){
     const success = graph.tryAddPoint(
