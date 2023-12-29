@@ -26,6 +26,7 @@
         <script src="../utils/items/building.js" defer></script>
         <script src="../utils/math/utils.js" defer></script>
         <script src="../utils/math/graph.js" defer></script>
+        <script src="../utils/math/osm.js" defer></script>
         <script src="../utils/primitives/point.js" defer></script>
         <script src="../utils/primitives/segment.js" defer></script>
         <script src="../utils/primitives/polygon.js" defer></script>
@@ -51,7 +52,8 @@
                    accept=".world"
                    onchange="load(event)"
                 />
-             </label>
+            </label>
+            <button onclick="openOsmPanel()">🗺️</button>
             &nbsp;
             <button id="graphBtn" onclick="setMode('graph')">🌐</button>
             <button id="stopBtn" onclick="setMode('stop')">🛑</button>
@@ -61,6 +63,15 @@
             <button id="lightBtn" onclick="setMode('light')">🚦</button>
             <button id="startBtn" onclick="setMode('start')">🚙</button>
             <button id="targetBtn" onclick="setMode('target')">🎯</button>
+
+            <div id="osmPanel" style="display:none;">
+                <textarea id="osmDataContainer" rows="10" cols="50" 
+                   placeholder="Paste OSM data here"></textarea>
+                <div>
+                   <button onclick="parseOsmData()">✔️</button>
+                   <button onclick="closeOsmPanel()">❌</button>
+                </div>
+            </div>
         </div>
     </body>
 </html>

@@ -7,6 +7,9 @@ const buttonLight = document.getElementById("lightBtn");
 const buttonStart = document.getElementById("startBtn");
 const buttonTarget = document.getElementById("targetBtn");
 
+const osmPanel = document.getElementById("osmPanel");
+const osmDataContainer = document.getElementById("osmDataContainer");
+
 const mainCanvas = document.getElementById("myCanvas");
 mainCanvas.width = 600;
 mainCanvas.height = 600;
@@ -100,6 +103,25 @@ function load(event){
         localStorage.setItem("world", JSON.stringify(world));
         location.reload();
     }
+}
+
+function openOsmPanel(){
+    osmPanel.style.display = "block";
+}
+
+function closeOsmPanel(){
+    osmPanel.style.display = "none";
+}
+
+function parseOsmData(){
+    if(osmDataContainer.value === ""){
+        alert("Paste data first!");
+        return;
+    }
+    const res = Osm.parseRoads(JSON.parse(osmDataContainer.value));
+    graph.points = res.points;
+    graph.segments = res.segments;
+    closeOsmPanel();
 }
 
 // ------------------------------------------------------------------ //

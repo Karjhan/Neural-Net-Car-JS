@@ -96,6 +96,10 @@ function lerp(a, b, t) {
 function lerp2D(A, B, t){
     return new Point(lerp(A.x, B.x, t), lerp(A.y, B.y, t));
 }
+
+function invLerp(a, b, v){
+    return (v - a) / (b - a);
+}
  
 function getRandomColor() {
     const hue = 290 + Math.random() * 260;
@@ -107,4 +111,8 @@ function getFake3dPoint(point, viewPoint, height) {
     const dist = distance(point, viewPoint);
     const scaler = Math.atan(dist / 300) / (Math.PI / 2);
     return add(point, scale(dir, height * scaler));
+}
+
+function degToRad(degree){
+    return degree * Math.PI / 180
 }

@@ -1,0 +1,4660 @@
+{
+    "version": 0.6,
+    "generator": "Overpass API 0.7.61.5 4133829e",
+    "osm3s": {
+      "timestamp_osm_base": "2023-12-29T08:23:35Z",
+      "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+  
+    {
+        "type": "way",
+        "id": 2955804,
+        "nodes": [
+        254424145,
+        10751080506,
+        3877143899,
+        7877965340,
+        3949404191,
+        4819855796,
+        254427435,
+        660828978,
+        863684871,
+        6260777502,
+        2150924730,
+        254425883,
+        256695110,
+        256695494,
+        13870831,
+        256695589,
+        1669437057,
+        13870830,
+        1669437022,
+        6264311968,
+        13870828,
+        2813575188,
+        7590383438,
+        630643260,
+        13870827
+        ],
+        "tags": {
+        "highway": "tertiary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Strada Câmpia Libertății",
+        "old_name": "Șoseaua Cătelu",
+        "oneway": "no",
+        "sidewalk": "both",
+        "smoothness": "good",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 8268766,
+        "nodes": [
+        13870827,
+        7590383434,
+        2160399950,
+        2529628678,
+        2529628669,
+        2529628675,
+        1669436661,
+        1669436601,
+        3054621633,
+        649596618,
+        254422509,
+        649595007,
+        6266620930,
+        254421087,
+        1669436457,
+        1669436403,
+        649589938,
+        9327469512,
+        649588159,
+        313389176,
+        578908
+        ],
+        "tags": {
+        "highway": "secondary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Strada Baba Novac",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+        }
+    },
+    {
+        "type": "way",
+        "id": 23493407,
+        "nodes": [
+        254425882,
+        254426815,
+        660828979,
+        254426524,
+        254426521,
+        10741273568,
+        6260777501,
+        254425883
+        ],
+        "tags": {
+        "highway": "residential",
+        "is_in:city": "București",
+        "lanes": "2",
+        "maxspeed": "RO:urban",
+        "name": "Strada Șapte Drumuri",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 23493475,
+        "nodes": [
+        254426521,
+        6513845123,
+        660496649,
+        6513845124,
+        6513845126,
+        660496650,
+        6513845125,
+        254426522,
+        6513845122,
+        254426523,
+        6513845121,
+        254426524
+        ],
+        "tags": {
+        "highway": "residential",
+        "is_in:city": "București",
+        "maxspeed": "30",
+        "name": "Strada Plutei",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 23493487,
+        "nodes": [
+        4819855796,
+        4819855795
+        ],
+        "tags": {
+        "highway": "residential",
+        "is_in:city": "București",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Strada Câmpia Libertății",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 23581260,
+        "nodes": [
+        255364129,
+        255364367,
+        3949404228,
+        255364366,
+        255364365,
+        2400993440
+        ],
+        "tags": {
+        "highway": "secondary_link",
+        "is_in:city": "București",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "50",
+        "oneway": "yes",
+        "sidewalk": "right",
+        "smoothness": "good",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 23706442,
+        "nodes": [
+        2437431586,
+        2150913797,
+        2437431634,
+        256693966,
+        11030527521,
+        631167472,
+        561248186,
+        2437431661,
+        256693996,
+        11030527522,
+        4800735779,
+        4330547875,
+        256693997,
+        4330547990,
+        256693998,
+        4330547991,
+        2898343901
+        ],
+        "tags": {
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Strada Gheorghe Tattarescu",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 23706528,
+        "nodes": [
+        256693996,
+        2437431658,
+        256694746
+        ],
+        "tags": {
+        "highway": "residential",
+        "is_in:city": "București",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "RO:urban",
+        "name": "Strada Bucovina",
+        "oneway": "no",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 23706530,
+        "nodes": [
+        2150941365,
+        896285124,
+        4330547997,
+        2437974152,
+        9587570153,
+        2437974160,
+        6262627585,
+        9587570152,
+        2150941377,
+        9587570151,
+        9587570155,
+        256694746
+        ],
+        "tags": {
+        "highway": "residential",
+        "is_in:city": "București",
+        "lit": "yes",
+        "maxspeed": "RO:urban",
+        "name": "Strada Bucovina",
+        "oneway": "yes",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 23706541,
+        "nodes": [
+        256695069,
+        4037243125,
+        4037243128,
+        4037243124,
+        256695280,
+        256695225,
+        631172589
+        ],
+        "tags": {
+        "highway": "residential",
+        "is_in:city": "București",
+        "lit": "yes",
+        "maxspeed": "RO:urban",
+        "name": "Strada Tropicelor",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 23706543,
+        "nodes": [
+        256694909,
+        4550174551,
+        11030527517,
+        256694910,
+        4550174555,
+        3949404236,
+        2443060228,
+        2443060229,
+        2443060230,
+        256694902,
+        2443060231,
+        2443060232,
+        2443060233,
+        2921951332,
+        256694903
+        ],
+        "tags": {
+        "highway": "residential",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "RO:urban",
+        "name": "Intrarea Sabiței",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 23706544,
+        "nodes": [
+        256694904,
+        4037243115,
+        4037243117,
+        4037243119,
+        4037243116,
+        4037243131,
+        2437974155,
+        256694906
+        ],
+        "tags": {
+        "highway": "residential",
+        "lane_markings": "no",
+        "maxspeed": "RO:urban",
+        "name": "Intrarea Roșianu",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 23706550,
+        "nodes": [
+        2150924730,
+        6260777486,
+        863684899,
+        863684895,
+        6897160370,
+        256695022
+        ],
+        "tags": {
+        "highway": "residential",
+        "is_in:city": "București",
+        "lanes": "1",
+        "maxspeed": "30",
+        "name": "Strada Soldat Florea Popa",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "smoothness": "good",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 23706554,
+        "nodes": [
+        863699526,
+        2150930641,
+        256695111,
+        256695110
+        ],
+        "tags": {
+        "highway": "residential",
+        "lanes": "1",
+        "maxspeed": "30",
+        "name": "Strada Țărăncuței",
+        "sidewalk": "both",
+        "source": "survey",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 23706561,
+        "nodes": [
+        256695225,
+        4037241539,
+        9102270987,
+        256695261
+        ],
+        "tags": {
+        "highway": "residential",
+        "is_in:city": "București",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "RO:urban",
+        "name": "Strada Păpădiei",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 23706585,
+        "nodes": [
+        1669436823,
+        3888897756,
+        3888900361,
+        256695822,
+        6513845120,
+        8566008577,
+        3888900367,
+        8566008566,
+        8566008561,
+        1669436943,
+        8566008562,
+        8566008563,
+        256695825,
+        3888900362,
+        8566008564,
+        8566008565,
+        256695826
+        ],
+        "tags": {
+        "highway": "residential",
+        "is_in:city": "București",
+        "maxspeed": "RO:urban",
+        "name": "Aleea Buga",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 23706651,
+        "nodes": [
+        649562882,
+        256696945,
+        1669436411,
+        639133014,
+        736191365,
+        736191368,
+        649595022,
+        256696970,
+        649596628,
+        3054622633,
+        1669436619,
+        3054620233,
+        715866052,
+        313396928,
+        2160399952,
+        7590383435,
+        256696983
+        ],
+        "tags": {
+        "highway": "secondary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Strada Baba Novac",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+        }
+    },
+    {
+        "type": "way",
+        "id": 23706790,
+        "nodes": [
+        3084563313,
+        256698961,
+        4573999196,
+        256698975
+        ],
+        "tags": {
+        "highway": "residential",
+        "is_in:city": "București",
+        "maxspeed": "RO:urban",
+        "name": "Intrarea Reconstrucției",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 23706830,
+        "nodes": [
+        256698961,
+        256699570,
+        256699543,
+        4261574990,
+        256699535,
+        256698962
+        ],
+        "tags": {
+        "highway": "residential",
+        "maxspeed": "RO:urban",
+        "name": "Intrarea Reconstrucției",
+        "oneway": "no",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 23706891,
+        "nodes": [
+        256699479,
+        256699457,
+        256699480
+        ],
+        "tags": {
+        "highway": "living_street",
+        "is_in:city": "București",
+        "maxspeed": "30",
+        "name": "Intrarea Siliciului",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 23706896,
+        "nodes": [
+        256699510,
+        6512161707,
+        2160399707,
+        256699511
+        ],
+        "tags": {
+        "highway": "residential",
+        "is_in:city": "București",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Șoseaua Câmpia Libertății",
+        "sidewalk": "none",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 27011477,
+        "nodes": [
+        256694767,
+        254429475
+        ],
+        "tags": {
+        "foot": "no",
+        "highway": "residential",
+        "is_in:city": "București",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "RO:urban",
+        "name": "Strada Baba Novac",
+        "oneway": "yes",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 39380587,
+        "nodes": [
+        715866051,
+        3915743949,
+        7877965425,
+        7877965398,
+        1669436511,
+        3098102229,
+        2017669850
+        ],
+        "tags": {
+        "highway": "residential",
+        "is_in:city": "București",
+        "lit": "yes",
+        "maxspeed": "RO:urban",
+        "name": "Strada Reconstrucției",
+        "oneway": "no",
+        "smoothness": "good",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 43272875,
+        "nodes": [
+        256696983,
+        543522286,
+        7590383437,
+        5062571531,
+        543522290,
+        5062571522,
+        2514417451,
+        5062571546,
+        543522291,
+        2514417445,
+        543522294,
+        3098097330,
+        543522296,
+        543522298,
+        9102270990,
+        7590383439,
+        558117252,
+        254429475,
+        7877965530
+        ],
+        "tags": {
+        "cycleway:right": "track",
+        "foot": "designated",
+        "highway": "secondary",
+        "is_in:city": "București",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Strada Baba Novac",
+        "oneway": "yes",
+        "segregated": "yes",
+        "sidewalk": "right",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+        }
+    },
+    {
+        "type": "way",
+        "id": 49641274,
+        "nodes": [
+        631172589,
+        631172591,
+        631172592,
+        4037243108,
+        631168040
+        ],
+        "tags": {
+        "highway": "residential",
+        "is_in:city": "București",
+        "lit": "yes",
+        "maxspeed": "RO:urban",
+        "name": "Strada Țărăncuței",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 49641931,
+        "nodes": [
+        2150913800,
+        631172590,
+        631172589,
+        2150913798,
+        256695070
+        ],
+        "tags": {
+        "highway": "residential",
+        "is_in:city": "București",
+        "lit": "yes",
+        "maxspeed": "RO:urban",
+        "name": "Strada Rașovița",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 50303232,
+        "nodes": [
+        255364367,
+        639133959
+        ],
+        "tags": {
+        "highway": "residential",
+        "is_in:city": "București",
+        "lit": "yes",
+        "maxspeed": "RO:urban",
+        "name": "Șoseaua Câmpia Libertății",
+        "oneway": "no",
+        "smoothness": "good",
+        "source": "local_knowledge",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 51790637,
+        "nodes": [
+        660828983,
+        660869677,
+        6513845127,
+        660828978
+        ],
+        "tags": {
+        "highway": "residential",
+        "is_in:city": "București",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Strada Căpitan Nicolae Licăreț",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 72744967,
+        "nodes": [
+        863699526,
+        863649631
+        ],
+        "tags": {
+        "highway": "residential",
+        "is_in:city": "București",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Strada Țărăncuței",
+        "sidewalk": "both",
+        "source": "survey",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 73579580,
+        "nodes": [
+        256698843,
+        2026416478,
+        2026416481,
+        4261555697,
+        2592130348,
+        2026416484,
+        2026416499,
+        3084563313,
+        6512161703,
+        872012602
+        ],
+        "tags": {
+        "highway": "residential",
+        "is_in:city": "București",
+        "lanes": "1",
+        "maxspeed": "RO:urban",
+        "name": "Intrarea Reconstrucției",
+        "oneway": "no",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 73580512,
+        "nodes": [
+        256698962,
+        256698716,
+        256699458,
+        256698626
+        ],
+        "tags": {
+        "highway": "residential",
+        "is_in:city": "București",
+        "maxspeed": "RO:urban",
+        "name": "Strada Ion Țuculescu",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 75916531,
+        "nodes": [
+        256694909,
+        11030527518,
+        6512215398,
+        863684907,
+        863684871
+        ],
+        "tags": {
+        "highway": "residential",
+        "is_in:city": "București",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "RO:urban",
+        "name": "Strada Roșianu",
+        "smoothness": "good",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 194455230,
+        "nodes": [
+        2150941368,
+        2150941382,
+        256694767,
+        558117406,
+        254429474,
+        9102270991,
+        4037249237,
+        256695261,
+        3098096829,
+        254429473,
+        2150931363,
+        254429472,
+        254429471,
+        5062571521,
+        896275955,
+        256695410,
+        11030513395,
+        3054605947,
+        631174237,
+        313397127,
+        2160399951,
+        13870827
+        ],
+        "tags": {
+        "highway": "secondary",
+        "is_in:city": "București",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Strada Baba Novac",
+        "oneway": "yes",
+        "sidewalk": "right",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+        }
+    },
+    {
+        "type": "way",
+        "id": 205122229,
+        "nodes": [
+        256695069,
+        256695070,
+        256695071,
+        6512215396,
+        6512215397,
+        863699526
+        ],
+        "tags": {
+        "highway": "residential",
+        "is_in:city": "București",
+        "lit": "yes",
+        "maxspeed": "RO:urban",
+        "name": "Strada Gruiul Argeșului",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 205122230,
+        "nodes": [
+        631174241,
+        3888900443,
+        256695411
+        ],
+        "tags": {
+        "highway": "residential",
+        "is_in:city": "București",
+        "lit": "yes",
+        "maxspeed": "RO:urban",
+        "name": "Aleea Gruiul Argeșului",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 205122306,
+        "nodes": [
+        2150930639,
+        2150930637,
+        2150930643,
+        6513555196,
+        11030527519,
+        11030527520,
+        6513555197,
+        2150930644,
+        6512215399,
+        2150930645,
+        6512215400,
+        4363356215,
+        2150930641
+        ],
+        "tags": {
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "RO:urban",
+        "name": "Intrarea Budeasa",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 206039784,
+        "nodes": [
+        2400993446,
+        6262627606,
+        2160399082,
+        2160399083,
+        255364129
+        ],
+        "tags": {
+        "foot": "no",
+        "highway": "tertiary",
+        "is_in:city": "București",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Strada Câmpia Libertății",
+        "oneway": "yes",
+        "shoulder": "no",
+        "sidewalk": "none",
+        "smoothness": "good",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 206039785,
+        "nodes": [
+        255364129,
+        3052550759,
+        2160399080,
+        6262627604,
+        2160399081,
+        2400993444
+        ],
+        "tags": {
+        "foot": "no",
+        "highway": "tertiary",
+        "is_in:city": "București",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Strada Câmpia Libertății",
+        "old_name": "Șoseaua Cătelu",
+        "oneway": "yes",
+        "shoulder": "no",
+        "sidewalk": "none",
+        "smoothness": "good",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 217356668,
+        "nodes": [
+        256694906,
+        256694909
+        ],
+        "tags": {
+        "highway": "residential",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "RO:urban",
+        "name": "Intrarea Sergent Ion Barbu",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 217512260,
+        "nodes": [
+        2150913798,
+        256695072,
+        2418168350,
+        256695022,
+        256694904,
+        256694903,
+        2921946464,
+        256694890,
+        256694891
+        ],
+        "tags": {
+        "highway": "residential",
+        "is_in:city": "București",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "RO:urban",
+        "name": "Strada Țărăncuței",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 217512261,
+        "nodes": [
+        631168040,
+        8779056227,
+        631168039
+        ],
+        "tags": {
+        "highway": "residential",
+        "is_in:city": "București",
+        "lit": "yes",
+        "maxspeed": "RO:urban",
+        "name": "Strada Țărăncuței",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 231766988,
+        "nodes": [
+        3301608061,
+        2400993414,
+        4604406920,
+        2400993416,
+        4379519679,
+        4582823673,
+        2400993418,
+        2400993422,
+        4379519684,
+        4379519682,
+        4582826501,
+        2400993429,
+        2400993431,
+        9108376749,
+        2400993435,
+        2400993436,
+        2400993438,
+        2400993439,
+        2400993441
+        ],
+        "tags": {
+        "cycleway:right": "track",
+        "highway": "secondary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Strada Liviu Rebreanu",
+        "oneway": "yes",
+        "segregated": "yes",
+        "sidewalk": "right",
+        "smoothness": "excellent",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 231766989,
+        "nodes": [
+        2400996441,
+        8347104761,
+        2400993452,
+        2400993450,
+        2400993448
+        ],
+        "tags": {
+        "cycleway:right": "track",
+        "highway": "secondary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Strada Liviu Rebreanu",
+        "oneway": "yes",
+        "segregated": "yes",
+        "sidewalk": "right",
+        "smoothness": "excellent",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 231766994,
+        "nodes": [
+        2400993448,
+        2447430430,
+        255364272,
+        6262627605,
+        255364273,
+        255364274,
+        255364129
+        ],
+        "tags": {
+        "cycleway:right": "track",
+        "highway": "secondary_link",
+        "is_in:city": "București",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "RO:urban",
+        "oneway": "yes",
+        "segregated": "yes",
+        "sidewalk": "right",
+        "smoothness": "good",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 231767285,
+        "nodes": [
+        2400996439,
+        8347104762,
+        2400996445,
+        6262066195,
+        3072510433,
+        7877806528,
+        2400996455,
+        2400996462,
+        2400996464,
+        6512228567,
+        2400996468,
+        7877965121,
+        2400996434,
+        2400996474,
+        2901560542
+        ],
+        "tags": {
+        "cycleway:right": "track",
+        "highway": "secondary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Strada Liviu Rebreanu",
+        "oneway": "yes",
+        "segregated": "yes",
+        "sidewalk": "right",
+        "smoothness": "excellent",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 231767288,
+        "nodes": [
+        2400996436,
+        2400996439
+        ],
+        "tags": {
+        "bridge": "yes",
+        "cycleway:right": "track",
+        "highway": "secondary",
+        "lanes": "2",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "RO:urban",
+        "name": "Strada Liviu Rebreanu",
+        "oneway": "yes",
+        "segregated": "yes",
+        "shoulder": "no",
+        "sidewalk": "right",
+        "smoothness": "excellent",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 231767289,
+        "nodes": [
+        2400996447,
+        2400996441
+        ],
+        "tags": {
+        "bridge": "yes",
+        "cycleway:right": "track",
+        "highway": "secondary",
+        "lanes": "2",
+        "layer": "1",
+        "lit": "yes",
+        "maxspeed": "RO:urban",
+        "name": "Strada Liviu Rebreanu",
+        "oneway": "yes",
+        "segregated": "yes",
+        "shoulder": "no",
+        "sidewalk": "right",
+        "smoothness": "excellent",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 231767290,
+        "nodes": [
+        2400996445,
+        561248162,
+        1659109542,
+        861531895,
+        9388354304,
+        1659109539,
+        885579624,
+        257417045,
+        257417078,
+        257416494,
+        11428496641,
+        257416437
+        ],
+        "tags": {
+        "highway": "residential",
+        "is_in:city": "București",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Strada Lunca Bradului",
+        "oneway": "no",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 231767546,
+        "nodes": [
+        2400993444,
+        2400993443,
+        2400993440,
+        2400993437,
+        2400993434,
+        2400993430,
+        2400993428,
+        2400993426,
+        2400993424,
+        4379748450,
+        2400993421,
+        2400993420,
+        3378467947,
+        2400993417,
+        4196065664,
+        2968204334,
+        2453020678,
+        2400993413
+        ],
+        "tags": {
+        "highway": "secondary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Strada Liviu Rebreanu",
+        "oneway": "yes",
+        "sidewalk": "right",
+        "smoothness": "excellent",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 231767547,
+        "nodes": [
+        2400993444,
+        2160399084,
+        9084164836,
+        2400993441
+        ],
+        "tags": {
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "2",
+        "lit": "no",
+        "maxspeed": "50",
+        "name": "Șoseaua Câmpia Libertății",
+        "old_name": "Șoseaua Cătelu",
+        "oneway": "yes",
+        "smoothness": "good",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 244282261,
+        "nodes": [
+        6266972420,
+        3091110049,
+        3054618533,
+        1668024022,
+        5062571547,
+        5062571543,
+        5062571534,
+        1668023940,
+        256694185,
+        649721159,
+        254429663,
+        861551169,
+        256694326,
+        649680745,
+        649700258,
+        254429665,
+        3054601947,
+        2150941365,
+        863774941
+        ],
+        "tags": {
+        "cycleway:right": "track",
+        "foot": "designated",
+        "highway": "secondary",
+        "is_in:city": "București",
+        "lanes": "4",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Strada Constantin Brâncuși",
+        "oneway": "no",
+        "segregated": "yes",
+        "sidewalk": "both",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+        }
+    },
+    {
+        "type": "way",
+        "id": 245854936,
+        "nodes": [
+        2529628675,
+        6513845119,
+        256695826
+        ],
+        "tags": {
+        "highway": "residential",
+        "is_in:city": "București",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Aleea Buga",
+        "oneway": "yes",
+        "sidewalk": "none",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 245854937,
+        "nodes": [
+        256695830,
+        2529628682,
+        2529628677,
+        256695829,
+        2529628669
+        ],
+        "tags": {
+        "highway": "residential",
+        "is_in:city": "București",
+        "maxspeed": "30",
+        "name": "Aleea Buga",
+        "oneway": "yes",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 245854938,
+        "nodes": [
+        256695588,
+        1669437049,
+        5768440114,
+        256695835
+        ],
+        "tags": {
+        "highway": "residential",
+        "is_in:city": "București",
+        "maxspeed": "RO:urban",
+        "name": "Strada Doicești",
+        "oneway": "yes",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 245854941,
+        "nodes": [
+        256695494,
+        6260777496,
+        3888900562,
+        1669437091,
+        256695493,
+        256695505
+        ],
+        "tags": {
+        "highway": "residential",
+        "is_in:city": "București",
+        "maxspeed": "RO:urban",
+        "name": "Strada Fildeșului",
+        "oneway": "yes",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 245854943,
+        "nodes": [
+        2529628678,
+        256695830,
+        6512274295,
+        256695831,
+        6512274296,
+        256695832,
+        256695833,
+        256695834,
+        256695835
+        ],
+        "tags": {
+        "highway": "residential",
+        "is_in:city": "București",
+        "maxspeed": "30",
+        "name": "Aleea Buga",
+        "sidewalk": "left",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 286478249,
+        "nodes": [
+        2901560549,
+        2400996483,
+        2400996435,
+        5257688843,
+        2400996472,
+        2400996466,
+        2447425081,
+        6357560397,
+        2400996460,
+        6262066196,
+        2400996451,
+        3072495335,
+        8347104763,
+        2400996447
+        ],
+        "tags": {
+        "cycleway:right": "track",
+        "highway": "secondary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Strada Liviu Rebreanu",
+        "oneway": "yes",
+        "segregated": "yes",
+        "sidewalk": "right",
+        "smoothness": "excellent",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 303949427,
+        "nodes": [
+        256698975,
+        4573999197,
+        3915744462,
+        6262627602,
+        256699471,
+        6879830498,
+        4379748455,
+        256699479,
+        2160399505,
+        256698626
+        ],
+        "tags": {
+        "highway": "residential",
+        "is_in:city": "București",
+        "maxspeed": "RO:urban",
+        "name": "Drumul Murgului",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 385547148,
+        "nodes": [
+        3888900562,
+        256695835
+        ],
+        "tags": {
+        "highway": "residential",
+        "maxspeed": "30",
+        "name": "Aleea Buga",
+        "sidewalk": "no",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 401291249,
+        "nodes": [
+        256695072,
+        256695071
+        ],
+        "tags": {
+        "highway": "residential",
+        "is_in:city": "București",
+        "lit": "yes",
+        "maxspeed": "RO:urban",
+        "name": "Strada Gruiul Argeșului",
+        "oneway": "yes",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 420821847,
+        "nodes": [
+        256695835,
+        6260777494,
+        256695589
+        ],
+        "tags": {
+        "highway": "residential",
+        "is_in:city": "București",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "RO:urban",
+        "name": "Strada Doicești",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 438614111,
+        "nodes": [
+        256695111,
+        6512215403,
+        4363357597,
+        6512215404,
+        6512215401,
+        4363357598,
+        6512215402,
+        4363357599
+        ],
+        "tags": {
+        "highway": "residential"
+        }
+    },
+    {
+        "type": "way",
+        "id": 448652363,
+        "nodes": [
+        13870827,
+        256696983
+        ],
+        "tags": {
+        "foot": "no",
+        "highway": "tertiary",
+        "is_in:city": "București",
+        "lanes": "2",
+        "lit": "no",
+        "maxspeed": "50",
+        "name": "Strada Câmpia Libertății",
+        "old_name": "Șoseaua Cătelu",
+        "oneway": "no",
+        "smoothness": "good",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 448652369,
+        "nodes": [
+        256696983,
+        2160399948,
+        7590383436,
+        630643262,
+        5257688842,
+        256699508,
+        256699511,
+        255364129
+        ],
+        "tags": {
+        "cycleway:right": "track",
+        "highway": "tertiary",
+        "is_in:city": "București",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Strada Câmpia Libertății",
+        "old_name": "Șoseaua Cătelu",
+        "oneway": "no",
+        "segregated": "yes",
+        "sidewalk": "right",
+        "smoothness": "good",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 448652375,
+        "nodes": [
+        2400993448,
+        2400993446
+        ],
+        "tags": {
+        "foot": "no",
+        "highway": "secondary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Strada Liviu Rebreanu",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 448652380,
+        "nodes": [
+        2400993441,
+        2400993442,
+        2400993445,
+        2400993447,
+        2400993451,
+        2400996436
+        ],
+        "tags": {
+        "cycleway:right": "track",
+        "highway": "secondary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Strada Liviu Rebreanu",
+        "oneway": "yes",
+        "segregated": "yes",
+        "sidewalk": "right",
+        "smoothness": "excellent",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 660580671,
+        "nodes": [
+        256695411,
+        2437974165,
+        256695069
+        ],
+        "tags": {
+        "highway": "residential",
+        "is_in:city": "București",
+        "lit": "yes",
+        "maxspeed": "RO:urban",
+        "name": "Strada Gruiul Argeșului",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 660580672,
+        "nodes": [
+        639133959,
+        3915743950,
+        715866051
+        ],
+        "tags": {
+        "highway": "residential",
+        "is_in:city": "București",
+        "lit": "yes",
+        "maxspeed": "RO:urban",
+        "name": "Strada Reconstrucției",
+        "oneway": "no",
+        "smoothness": "intermediate",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 660580673,
+        "nodes": [
+        256699509,
+        6512161708,
+        6512161706,
+        256699510
+        ],
+        "tags": {
+        "highway": "residential",
+        "is_in:city": "București",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Șoseaua Câmpia Libertății",
+        "sidewalk": "none",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 660580674,
+        "nodes": [
+        256699508,
+        2160399706,
+        6512161709,
+        256699509
+        ],
+        "tags": {
+        "highway": "residential",
+        "is_in:city": "București",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Șoseaua Câmpia Libertății",
+        "sidewalk": "none",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 693778210,
+        "nodes": [
+        7877965530,
+        7877965529,
+        7877965111,
+        7877965108,
+        2150941368,
+        6513676234,
+        6513676233,
+        2437974152
+        ],
+        "tags": {
+        "foot": "no",
+        "highway": "secondary_link",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Strada Baba Novac",
+        "oneway": "yes",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 693800964,
+        "nodes": [
+        254426522,
+        6513845127
+        ],
+        "tags": {
+        "highway": "residential",
+        "maxspeed": "30",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 852977290,
+        "nodes": [
+        2400993442,
+        9084164872,
+        2160399079,
+        2400993446
+        ],
+        "tags": {
+        "foot": "no",
+        "highway": "tertiary",
+        "lanes": "2",
+        "lit": "no",
+        "maxspeed": "50",
+        "name": "Strada Câmpia Libertății",
+        "oneway": "yes",
+        "smoothness": "good",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 852989138,
+        "nodes": [
+        2400996451,
+        543390733,
+        9084164837,
+        2400996445
+        ],
+        "tags": {
+        "foot": "no",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Strada Lunca Bradului",
+        "oneway": "yes",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 853327080,
+        "nodes": [
+        863774941,
+        2437431589,
+        9587570150,
+        2437974162,
+        2150941368
+        ],
+        "tags": {
+        "foot": "no",
+        "highway": "secondary",
+        "is_in:city": "București",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Strada Baba Novac",
+        "oneway": "yes",
+        "sidewalk": "none",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+        }
+    },
+    {
+        "type": "way",
+        "id": 853327081,
+        "nodes": [
+        7877965530,
+        3054609041,
+        2160399953,
+        2150941362,
+        2437431584,
+        863774941
+        ],
+        "tags": {
+        "cycleway:right": "track",
+        "foot": "designated",
+        "highway": "secondary",
+        "is_in:city": "București",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Strada Baba Novac",
+        "oneway": "yes",
+        "segregated": "yes",
+        "sidewalk": "right",
+        "smoothness": "excellent",
+        "surface": "asphalt",
+        "trolley_wire": "yes"
+        }
+    },
+    {
+        "type": "way",
+        "id": 1017994958,
+        "nodes": [
+        256694746,
+        9587570154,
+        2437431578,
+        256694767
+        ],
+        "tags": {
+        "highway": "residential",
+        "is_in:city": "București",
+        "lit": "yes",
+        "maxspeed": "RO:urban",
+        "name": "Strada Bucovina",
+        "oneway": "yes",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "way",
+        "id": 1121691225,
+        "nodes": [
+        2400993446,
+        2400993444
+        ],
+        "tags": {
+        "foot": "no",
+        "highway": "secondary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Strada Liviu Rebreanu",
+        "oneway": "yes",
+        "smoothness": "excellent",
+        "surface": "asphalt"
+        }
+    },
+    {
+        "type": "node",
+        "id": 578908,
+        "lat": 44.4243323,
+        "lon": 26.1377586
+    },
+    {
+        "type": "node",
+        "id": 13870827,
+        "lat": 44.4261187,
+        "lon": 26.1498376
+    },
+    {
+        "type": "node",
+        "id": 13870828,
+        "lat": 44.4264275,
+        "lon": 26.1497495
+    },
+    {
+        "type": "node",
+        "id": 13870830,
+        "lat": 44.4268450,
+        "lon": 26.1495986
+    },
+    {
+        "type": "node",
+        "id": 13870831,
+        "lat": 44.4273827,
+        "lon": 26.1490261
+    },
+    {
+        "type": "node",
+        "id": 254421087,
+        "lat": 44.4248894,
+        "lon": 26.1417439
+    },
+    {
+        "type": "node",
+        "id": 254422509,
+        "lat": 44.4252668,
+        "lon": 26.1442988
+    },
+    {
+        "type": "node",
+        "id": 254424145,
+        "lat": 44.4300588,
+        "lon": 26.1468488
+    },
+    {
+        "type": "node",
+        "id": 254425882,
+        "lat": 44.4273808,
+        "lon": 26.1436815
+    },
+    {
+        "type": "node",
+        "id": 254425883,
+        "lat": 44.4280406,
+        "lon": 26.1483191
+    },
+    {
+        "type": "node",
+        "id": 254426521,
+        "lat": 44.4278851,
+        "lon": 26.1472993
+    },
+    {
+        "type": "node",
+        "id": 254426522,
+        "lat": 44.4283718,
+        "lon": 26.1474233
+    },
+    {
+        "type": "node",
+        "id": 254426523,
+        "lat": 44.4280630,
+        "lon": 26.1453015
+    },
+    {
+        "type": "node",
+        "id": 254426524,
+        "lat": 44.4276176,
+        "lon": 26.1453989
+    },
+    {
+        "type": "node",
+        "id": 254426815,
+        "lat": 44.4274421,
+        "lon": 26.1441134
+    },
+    {
+        "type": "node",
+        "id": 254427435,
+        "lat": 44.4290131,
+        "lon": 26.1476014
+    },
+    {
+        "type": "node",
+        "id": 254429471,
+        "lat": 44.4264666,
+        "lon": 26.1516333
+    },
+    {
+        "type": "node",
+        "id": 254429472,
+        "lat": 44.4266359,
+        "lon": 26.1520943
+    },
+    {
+        "type": "node",
+        "id": 254429473,
+        "lat": 44.4268958,
+        "lon": 26.1526556
+    },
+    {
+        "type": "node",
+        "id": 254429474,
+        "lat": 44.4276273,
+        "lon": 26.1537674
+    },
+    {
+        "type": "node",
+        "id": 254429475,
+        "lat": 44.4282515,
+        "lon": 26.1549180
+    },
+    {
+        "type": "node",
+        "id": 254429663,
+        "lat": 44.4288196,
+        "lon": 26.1586970
+    },
+    {
+        "type": "node",
+        "id": 254429665,
+        "lat": 44.4287321,
+        "lon": 26.1570202
+    },
+    {
+        "type": "node",
+        "id": 255364129,
+        "lat": 44.4236922,
+        "lon": 26.1505368
+    },
+    {
+        "type": "node",
+        "id": 255364272,
+        "lat": 44.4234449,
+        "lon": 26.1509832
+    },
+    {
+        "type": "node",
+        "id": 255364273,
+        "lat": 44.4234820,
+        "lon": 26.1508653
+    },
+    {
+        "type": "node",
+        "id": 255364274,
+        "lat": 44.4235420,
+        "lon": 26.1507323
+    },
+    {
+        "type": "node",
+        "id": 255364365,
+        "lat": 44.4232130,
+        "lon": 26.1504293
+    },
+    {
+        "type": "node",
+        "id": 255364366,
+        "lat": 44.4232964,
+        "lon": 26.1504668
+    },
+    {
+        "type": "node",
+        "id": 255364367,
+        "lat": 44.4234820,
+        "lon": 26.1505304
+    },
+    {
+        "type": "node",
+        "id": 256693966,
+        "lat": 44.4291430,
+        "lon": 26.1520772
+    },
+    {
+        "type": "node",
+        "id": 256693996,
+        "lat": 44.4294795,
+        "lon": 26.1545350
+    },
+    {
+        "type": "node",
+        "id": 256693997,
+        "lat": 44.4296896,
+        "lon": 26.1559559
+    },
+    {
+        "type": "node",
+        "id": 256693998,
+        "lat": 44.4296840,
+        "lon": 26.1566710
+    },
+    {
+        "type": "node",
+        "id": 256694185,
+        "lat": 44.4289079,
+        "lon": 26.1595733
+    },
+    {
+        "type": "node",
+        "id": 256694326,
+        "lat": 44.4287790,
+        "lon": 26.1580923
+    },
+    {
+        "type": "node",
+        "id": 256694746,
+        "lat": 44.4290251,
+        "lon": 26.1546209
+    },
+    {
+        "type": "node",
+        "id": 256694767,
+        "lat": 44.4283431,
+        "lon": 26.1548002
+    },
+    {
+        "type": "node",
+        "id": 256694890,
+        "lat": 44.4296976,
+        "lon": 26.1513230
+    },
+    {
+        "type": "node",
+        "id": 256694891,
+        "lat": 44.4301962,
+        "lon": 26.1512702
+    },
+    {
+        "type": "node",
+        "id": 256694902,
+        "lat": 44.4291520,
+        "lon": 26.1495640
+    },
+    {
+        "type": "node",
+        "id": 256694903,
+        "lat": 44.4293841,
+        "lon": 26.1513890
+    },
+    {
+        "type": "node",
+        "id": 256694904,
+        "lat": 44.4289717,
+        "lon": 26.1514774
+    },
+    {
+        "type": "node",
+        "id": 256694906,
+        "lat": 44.4289175,
+        "lon": 26.1501217
+    },
+    {
+        "type": "node",
+        "id": 256694909,
+        "lat": 44.4287769,
+        "lon": 26.1483390
+    },
+    {
+        "type": "node",
+        "id": 256694910,
+        "lat": 44.4289701,
+        "lon": 26.1483624
+    },
+    {
+        "type": "node",
+        "id": 256695022,
+        "lat": 44.4286266,
+        "lon": 26.1515647
+    },
+    {
+        "type": "node",
+        "id": 256695069,
+        "lat": 44.4273673,
+        "lon": 26.1515982
+    },
+    {
+        "type": "node",
+        "id": 256695070,
+        "lat": 44.4279223,
+        "lon": 26.1513472
+    },
+    {
+        "type": "node",
+        "id": 256695071,
+        "lat": 44.4281381,
+        "lon": 26.1512486
+    },
+    {
+        "type": "node",
+        "id": 256695072,
+        "lat": 44.4282172,
+        "lon": 26.1516695
+    },
+    {
+        "type": "node",
+        "id": 256695110,
+        "lat": 44.4279526,
+        "lon": 26.1484083
+    },
+    {
+        "type": "node",
+        "id": 256695111,
+        "lat": 44.4280631,
+        "lon": 26.1491665
+    },
+    {
+        "type": "node",
+        "id": 256695225,
+        "lat": 44.4276703,
+        "lon": 26.1518201
+    },
+    {
+        "type": "node",
+        "id": 256695261,
+        "lat": 44.4271505,
+        "lon": 26.1530827
+    },
+    {
+        "type": "node",
+        "id": 256695280,
+        "lat": 44.4275376,
+        "lon": 26.1517495
+    },
+    {
+        "type": "node",
+        "id": 256695410,
+        "lat": 44.4263185,
+        "lon": 26.1510768
+    },
+    {
+        "type": "node",
+        "id": 256695411,
+        "lat": 44.4273091,
+        "lon": 26.1508669
+    },
+    {
+        "type": "node",
+        "id": 256695493,
+        "lat": 44.4270694,
+        "lon": 26.1451874
+    },
+    {
+        "type": "node",
+        "id": 256695494,
+        "lat": 44.4276440,
+        "lon": 26.1487504
+    },
+    {
+        "type": "node",
+        "id": 256695505,
+        "lat": 44.4268055,
+        "lon": 26.1452545
+    },
+    {
+        "type": "node",
+        "id": 256695588,
+        "lat": 44.4265498,
+        "lon": 26.1453195
+    },
+    {
+        "type": "node",
+        "id": 256695589,
+        "lat": 44.4271650,
+        "lon": 26.1492696
+    },
+    {
+        "type": "node",
+        "id": 256695822,
+        "lat": 44.4261974,
+        "lon": 26.1454182
+    },
+    {
+        "type": "node",
+        "id": 256695825,
+        "lat": 44.4262989,
+        "lon": 26.1465601
+    },
+    {
+        "type": "node",
+        "id": 256695826,
+        "lat": 44.4262653,
+        "lon": 26.1471864
+    },
+    {
+        "type": "node",
+        "id": 256695829,
+        "lat": 44.4263490,
+        "lon": 26.1474682
+    },
+    {
+        "type": "node",
+        "id": 256695830,
+        "lat": 44.4264438,
+        "lon": 26.1481482
+    },
+    {
+        "type": "node",
+        "id": 256695831,
+        "lat": 44.4266419,
+        "lon": 26.1480951
+    },
+    {
+        "type": "node",
+        "id": 256695832,
+        "lat": 44.4266906,
+        "lon": 26.1483238
+    },
+    {
+        "type": "node",
+        "id": 256695833,
+        "lat": 44.4267283,
+        "lon": 26.1485632
+    },
+    {
+        "type": "node",
+        "id": 256695834,
+        "lat": 44.4267574,
+        "lon": 26.1487529
+    },
+    {
+        "type": "node",
+        "id": 256695835,
+        "lat": 44.4270567,
+        "lon": 26.1486781
+    },
+    {
+        "type": "node",
+        "id": 256696945,
+        "lat": 44.4245493,
+        "lon": 26.1403158
+    },
+    {
+        "type": "node",
+        "id": 256696970,
+        "lat": 44.4251523,
+        "lon": 26.1443322
+    },
+    {
+        "type": "node",
+        "id": 256696983,
+        "lat": 44.4259931,
+        "lon": 26.1498738
+    },
+    {
+        "type": "node",
+        "id": 256698626,
+        "lat": 44.4215339,
+        "lon": 26.1470175
+    },
+    {
+        "type": "node",
+        "id": 256698716,
+        "lat": 44.4231304,
+        "lon": 26.1459817
+    },
+    {
+        "type": "node",
+        "id": 256698843,
+        "lat": 44.4241067,
+        "lon": 26.1458248
+    },
+    {
+        "type": "node",
+        "id": 256698961,
+        "lat": 44.4235776,
+        "lon": 26.1485844
+    },
+    {
+        "type": "node",
+        "id": 256698962,
+        "lat": 44.4232206,
+        "lon": 26.1458878
+    },
+    {
+        "type": "node",
+        "id": 256698975,
+        "lat": 44.4229234,
+        "lon": 26.1487530
+    },
+    {
+        "type": "node",
+        "id": 256699457,
+        "lat": 44.4223049,
+        "lon": 26.1474894
+    },
+    {
+        "type": "node",
+        "id": 256699458,
+        "lat": 44.4221486,
+        "lon": 26.1466290
+    },
+    {
+        "type": "node",
+        "id": 256699471,
+        "lat": 44.4224744,
+        "lon": 26.1481969
+    },
+    {
+        "type": "node",
+        "id": 256699479,
+        "lat": 44.4220468,
+        "lon": 26.1476624
+    },
+    {
+        "type": "node",
+        "id": 256699480,
+        "lat": 44.4225680,
+        "lon": 26.1473250
+    },
+    {
+        "type": "node",
+        "id": 256699508,
+        "lat": 44.4251306,
+        "lon": 26.1501073
+    },
+    {
+        "type": "node",
+        "id": 256699509,
+        "lat": 44.4250554,
+        "lon": 26.1495862
+    },
+    {
+        "type": "node",
+        "id": 256699510,
+        "lat": 44.4237845,
+        "lon": 26.1499436
+    },
+    {
+        "type": "node",
+        "id": 256699511,
+        "lat": 44.4238259,
+        "lon": 26.1505027
+    },
+    {
+        "type": "node",
+        "id": 256699535,
+        "lat": 44.4232645,
+        "lon": 26.1462196
+    },
+    {
+        "type": "node",
+        "id": 256699543,
+        "lat": 44.4234890,
+        "lon": 26.1479156
+    },
+    {
+        "type": "node",
+        "id": 256699570,
+        "lat": 44.4235634,
+        "lon": 26.1484782
+    },
+    {
+        "type": "node",
+        "id": 257416437,
+        "lat": 44.4217150,
+        "lon": 26.1597400
+    },
+    {
+        "type": "node",
+        "id": 257416494,
+        "lat": 44.4218665,
+        "lon": 26.1595691
+    },
+    {
+        "type": "node",
+        "id": 257417045,
+        "lat": 44.4230960,
+        "lon": 26.1578729
+    },
+    {
+        "type": "node",
+        "id": 257417078,
+        "lat": 44.4224317,
+        "lon": 26.1587764
+    },
+    {
+        "type": "node",
+        "id": 313389176,
+        "lat": 44.4243253,
+        "lon": 26.1378998
+    },
+    {
+        "type": "node",
+        "id": 313396928,
+        "lat": 44.4259521,
+        "lon": 26.1495718
+    },
+    {
+        "type": "node",
+        "id": 313397127,
+        "lat": 44.4261601,
+        "lon": 26.1501069
+    },
+    {
+        "type": "node",
+        "id": 543390733,
+        "lat": 44.4240908,
+        "lon": 26.1568412
+    },
+    {
+        "type": "node",
+        "id": 543522286,
+        "lat": 44.4260312,
+        "lon": 26.1501177
+    },
+    {
+        "type": "node",
+        "id": 543522290,
+        "lat": 44.4262035,
+        "lon": 26.1511508
+    },
+    {
+        "type": "node",
+        "id": 543522291,
+        "lat": 44.4263754,
+        "lon": 26.1517517
+    },
+    {
+        "type": "node",
+        "id": 543522294,
+        "lat": 44.4266970,
+        "lon": 26.1525485
+    },
+    {
+        "type": "node",
+        "id": 543522296,
+        "lat": 44.4269515,
+        "lon": 26.1530085
+    },
+    {
+        "type": "node",
+        "id": 543522298,
+        "lat": 44.4273109,
+        "lon": 26.1535277
+    },
+    {
+        "type": "node",
+        "id": 558117252,
+        "lat": 44.4281632,
+        "lon": 26.1547974
+    },
+    {
+        "type": "node",
+        "id": 558117406,
+        "lat": 44.4282574,
+        "lon": 26.1546773
+    },
+    {
+        "type": "node",
+        "id": 561248162,
+        "lat": 44.4239260,
+        "lon": 26.1568770
+    },
+    {
+        "type": "node",
+        "id": 561248186,
+        "lat": 44.4294482,
+        "lon": 26.1543170
+    },
+    {
+        "type": "node",
+        "id": 630643260,
+        "lat": 44.4262019,
+        "lon": 26.1498136
+    },
+    {
+        "type": "node",
+        "id": 630643262,
+        "lat": 44.4258776,
+        "lon": 26.1499084
+    },
+    {
+        "type": "node",
+        "id": 631167472,
+        "lat": 44.4292428,
+        "lon": 26.1528646
+    },
+    {
+        "type": "node",
+        "id": 631168039,
+        "lat": 44.4282002,
+        "lon": 26.1531437
+    },
+    {
+        "type": "node",
+        "id": 631168040,
+        "lat": 44.4283269,
+        "lon": 26.1521604
+    },
+    {
+        "type": "node",
+        "id": 631172589,
+        "lat": 44.4279527,
+        "lon": 26.1519338
+    },
+    {
+        "type": "node",
+        "id": 631172590,
+        "lat": 44.4278752,
+        "lon": 26.1523689
+    },
+    {
+        "type": "node",
+        "id": 631172591,
+        "lat": 44.4280235,
+        "lon": 26.1519635
+    },
+    {
+        "type": "node",
+        "id": 631172592,
+        "lat": 44.4282933,
+        "lon": 26.1520631
+    },
+    {
+        "type": "node",
+        "id": 631174237,
+        "lat": 44.4262168,
+        "lon": 26.1504854
+    },
+    {
+        "type": "node",
+        "id": 631174241,
+        "lat": 44.4272299,
+        "lon": 26.1501891
+    },
+    {
+        "type": "node",
+        "id": 639133014,
+        "lat": 44.4247742,
+        "lon": 26.1417795
+    },
+    {
+        "type": "node",
+        "id": 639133959,
+        "lat": 44.4232914,
+        "lon": 26.1493684
+    },
+    {
+        "type": "node",
+        "id": 649562882,
+        "lat": 44.4242559,
+        "lon": 26.1384317
+    },
+    {
+        "type": "node",
+        "id": 649588159,
+        "lat": 44.4243712,
+        "lon": 26.1382643
+    },
+    {
+        "type": "node",
+        "id": 649589938,
+        "lat": 44.4246712,
+        "lon": 26.1402779
+    },
+    {
+        "type": "node",
+        "id": 649595007,
+        "lat": 44.4252449,
+        "lon": 26.1441537
+    },
+    {
+        "type": "node",
+        "id": 649595022,
+        "lat": 44.4251314,
+        "lon": 26.1441895
+    },
+    {
+        "type": "node",
+        "id": 649596618,
+        "lat": 44.4252866,
+        "lon": 26.1444224
+    },
+    {
+        "type": "node",
+        "id": 649596628,
+        "lat": 44.4251729,
+        "lon": 26.1444603
+    },
+    {
+        "type": "node",
+        "id": 649680745,
+        "lat": 44.4287566,
+        "lon": 26.1577397
+    },
+    {
+        "type": "node",
+        "id": 649700258,
+        "lat": 44.4287409,
+        "lon": 26.1573788
+    },
+    {
+        "type": "node",
+        "id": 649721159,
+        "lat": 44.4288331,
+        "lon": 26.1588443
+    },
+    {
+        "type": "node",
+        "id": 660496649,
+        "lat": 44.4281374,
+        "lon": 26.1472552
+    },
+    {
+        "type": "node",
+        "id": 660496650,
+        "lat": 44.4281860,
+        "lon": 26.1474504
+    },
+    {
+        "type": "node",
+        "id": 660828978,
+        "lat": 44.4286794,
+        "lon": 26.1478364
+    },
+    {
+        "type": "node",
+        "id": 660828979,
+        "lat": 44.4275576,
+        "lon": 26.1449694
+    },
+    {
+        "type": "node",
+        "id": 660828983,
+        "lat": 44.4282633,
+        "lon": 26.1447734
+    },
+    {
+        "type": "node",
+        "id": 660869677,
+        "lat": 44.4282818,
+        "lon": 26.1449226
+    },
+    {
+        "type": "node",
+        "id": 715866051,
+        "lat": 44.4252003,
+        "lon": 26.1488265
+    },
+    {
+        "type": "node",
+        "id": 715866052,
+        "lat": 44.4259293,
+        "lon": 26.1494320
+    },
+    {
+        "type": "node",
+        "id": 736191365,
+        "lat": 44.4248944,
+        "lon": 26.1425855
+    },
+    {
+        "type": "node",
+        "id": 736191368,
+        "lat": 44.4250417,
+        "lon": 26.1435822
+    },
+    {
+        "type": "node",
+        "id": 861531895,
+        "lat": 44.4238310,
+        "lon": 26.1569102
+    },
+    {
+        "type": "node",
+        "id": 861551169,
+        "lat": 44.4288037,
+        "lon": 26.1584859
+    },
+    {
+        "type": "node",
+        "id": 863649631,
+        "lat": 44.4284532,
+        "lon": 26.1515377
+    },
+    {
+        "type": "node",
+        "id": 863684871,
+        "lat": 44.4284372,
+        "lon": 26.1480145
+    },
+    {
+        "type": "node",
+        "id": 863684895,
+        "lat": 44.4282758,
+        "lon": 26.1492670
+    },
+    {
+        "type": "node",
+        "id": 863684899,
+        "lat": 44.4282293,
+        "lon": 26.1491111
+    },
+    {
+        "type": "node",
+        "id": 863684907,
+        "lat": 44.4284833,
+        "lon": 26.1483192
+    },
+    {
+        "type": "node",
+        "id": 863699526,
+        "lat": 44.4283829,
+        "lon": 26.1510977
+    },
+    {
+        "type": "node",
+        "id": 863774941,
+        "lat": 44.4287468,
+        "lon": 26.1557919
+    },
+    {
+        "type": "node",
+        "id": 872012602,
+        "lat": 44.4245646,
+        "lon": 26.1487173
+    },
+    {
+        "type": "node",
+        "id": 885579624,
+        "lat": 44.4234734,
+        "lon": 26.1573315
+    },
+    {
+        "type": "node",
+        "id": 896275955,
+        "lat": 44.4263724,
+        "lon": 26.1513300
+    },
+    {
+        "type": "node",
+        "id": 896285124,
+        "lat": 44.4287936,
+        "lon": 26.1556086
+    },
+    {
+        "type": "node",
+        "id": 1659109539,
+        "lat": 44.4237027,
+        "lon": 26.1570101
+    },
+    {
+        "type": "node",
+        "id": 1659109542,
+        "lat": 44.4238796,
+        "lon": 26.1568917
+    },
+    {
+        "type": "node",
+        "id": 1668023940,
+        "lat": 44.4289552,
+        "lon": 26.1599987
+    },
+    {
+        "type": "node",
+        "id": 1668024022,
+        "lat": 44.4291058,
+        "lon": 26.1610400
+    },
+    {
+        "type": "node",
+        "id": 1669436403,
+        "lat": 44.4247181,
+        "lon": 26.1405749
+    },
+    {
+        "type": "node",
+        "id": 1669436411,
+        "lat": 44.4247520,
+        "lon": 26.1416361
+    },
+    {
+        "type": "node",
+        "id": 1669436457,
+        "lat": 44.4248677,
+        "lon": 26.1416012
+    },
+    {
+        "type": "node",
+        "id": 1669436511,
+        "lat": 44.4251202,
+        "lon": 26.1477803
+    },
+    {
+        "type": "node",
+        "id": 1669436601,
+        "lat": 44.4253882,
+        "lon": 26.1450560
+    },
+    {
+        "type": "node",
+        "id": 1669436619,
+        "lat": 44.4254803,
+        "lon": 26.1464867
+    },
+    {
+        "type": "node",
+        "id": 1669436661,
+        "lat": 44.4256034,
+        "lon": 26.1464503
+    },
+    {
+        "type": "node",
+        "id": 1669436823,
+        "lat": 44.4259943,
+        "lon": 26.1440847
+    },
+    {
+        "type": "node",
+        "id": 1669436943,
+        "lat": 44.4263606,
+        "lon": 26.1462276
+    },
+    {
+        "type": "node",
+        "id": 1669437022,
+        "lat": 44.4267145,
+        "lon": 26.1496620
+    },
+    {
+        "type": "node",
+        "id": 1669437049,
+        "lat": 44.4268120,
+        "lon": 26.1470529
+    },
+    {
+        "type": "node",
+        "id": 1669437057,
+        "lat": 44.4269150,
+        "lon": 26.1495393
+    },
+    {
+        "type": "node",
+        "id": 1669437091,
+        "lat": 44.4273455,
+        "lon": 26.1470088
+    },
+    {
+        "type": "node",
+        "id": 2017669850,
+        "lat": 44.4248081,
+        "lon": 26.1456115
+    },
+    {
+        "type": "node",
+        "id": 2026416478,
+        "lat": 44.4241273,
+        "lon": 26.1459758
+    },
+    {
+        "type": "node",
+        "id": 2026416481,
+        "lat": 44.4242390,
+        "lon": 26.1466957
+    },
+    {
+        "type": "node",
+        "id": 2026416484,
+        "lat": 44.4243880,
+        "lon": 26.1476582
+    },
+    {
+        "type": "node",
+        "id": 2026416499,
+        "lat": 44.4244596,
+        "lon": 26.1481045
+    },
+    {
+        "type": "node",
+        "id": 2150913797,
+        "lat": 44.4288012,
+        "lon": 26.1521592
+    },
+    {
+        "type": "node",
+        "id": 2150913798,
+        "lat": 44.4279850,
+        "lon": 26.1517623
+    },
+    {
+        "type": "node",
+        "id": 2150913800,
+        "lat": 44.4278276,
+        "lon": 26.1526636
+    },
+    {
+        "type": "node",
+        "id": 2150924730,
+        "lat": 44.4280911,
+        "lon": 26.1482742
+    },
+    {
+        "type": "node",
+        "id": 2150930637,
+        "lat": 44.4275170,
+        "lon": 26.1497988
+    },
+    {
+        "type": "node",
+        "id": 2150930639,
+        "lat": 44.4275003,
+        "lon": 26.1496233
+    },
+    {
+        "type": "node",
+        "id": 2150930641,
+        "lat": 44.4283249,
+        "lon": 26.1507149
+    },
+    {
+        "type": "node",
+        "id": 2150930643,
+        "lat": 44.4275653,
+        "lon": 26.1501456
+    },
+    {
+        "type": "node",
+        "id": 2150930644,
+        "lat": 44.4277448,
+        "lon": 26.1502421
+    },
+    {
+        "type": "node",
+        "id": 2150930645,
+        "lat": 44.4278549,
+        "lon": 26.1508453
+    },
+    {
+        "type": "node",
+        "id": 2150931363,
+        "lat": 44.4267492,
+        "lon": 26.1523567
+    },
+    {
+        "type": "node",
+        "id": 2150941362,
+        "lat": 44.4286494,
+        "lon": 26.1555616
+    },
+    {
+        "type": "node",
+        "id": 2150941365,
+        "lat": 44.4287572,
+        "lon": 26.1559001
+    },
+    {
+        "type": "node",
+        "id": 2150941368,
+        "lat": 44.4286631,
+        "lon": 26.1553329
+    },
+    {
+        "type": "node",
+        "id": 2150941377,
+        "lat": 44.4289217,
+        "lon": 26.1547911
+    },
+    {
+        "type": "node",
+        "id": 2150941382,
+        "lat": 44.4285339,
+        "lon": 26.1550851
+    },
+    {
+        "type": "node",
+        "id": 2160399079,
+        "lat": 44.4232492,
+        "lon": 26.1508450
+    },
+    {
+        "type": "node",
+        "id": 2160399080,
+        "lat": 44.4234289,
+        "lon": 26.1505987
+    },
+    {
+        "type": "node",
+        "id": 2160399081,
+        "lat": 44.4232985,
+        "lon": 26.1506636
+    },
+    {
+        "type": "node",
+        "id": 2160399082,
+        "lat": 44.4234132,
+        "lon": 26.1507206
+    },
+    {
+        "type": "node",
+        "id": 2160399083,
+        "lat": 44.4235296,
+        "lon": 26.1506466
+    },
+    {
+        "type": "node",
+        "id": 2160399084,
+        "lat": 44.4232063,
+        "lon": 26.1507225
+    },
+    {
+        "type": "node",
+        "id": 2160399505,
+        "lat": 44.4216599,
+        "lon": 26.1471791
+    },
+    {
+        "type": "node",
+        "id": 2160399706,
+        "lat": 44.4250904,
+        "lon": 26.1497643
+    },
+    {
+        "type": "node",
+        "id": 2160399707,
+        "lat": 44.4237871,
+        "lon": 26.1501356
+    },
+    {
+        "type": "node",
+        "id": 2160399948,
+        "lat": 44.4259082,
+        "lon": 26.1498995
+    },
+    {
+        "type": "node",
+        "id": 2160399950,
+        "lat": 44.4260828,
+        "lon": 26.1495945
+    },
+    {
+        "type": "node",
+        "id": 2160399951,
+        "lat": 44.4261492,
+        "lon": 26.1500400
+    },
+    {
+        "type": "node",
+        "id": 2160399952,
+        "lat": 44.4259599,
+        "lon": 26.1496291
+    },
+    {
+        "type": "node",
+        "id": 2160399953,
+        "lat": 44.4285366,
+        "lon": 26.1553568
+    },
+    {
+        "type": "node",
+        "id": 2400993413,
+        "lat": 44.4181298,
+        "lon": 26.1464659
+    },
+    {
+        "type": "node",
+        "id": 2400993414,
+        "lat": 44.4185231,
+        "lon": 26.1469490
+    },
+    {
+        "type": "node",
+        "id": 2400993416,
+        "lat": 44.4195909,
+        "lon": 26.1477208
+    },
+    {
+        "type": "node",
+        "id": 2400993417,
+        "lat": 44.4196316,
+        "lon": 26.1475449
+    },
+    {
+        "type": "node",
+        "id": 2400993418,
+        "lat": 44.4207054,
+        "lon": 26.1485254
+    },
+    {
+        "type": "node",
+        "id": 2400993420,
+        "lat": 44.4208426,
+        "lon": 26.1484151
+    },
+    {
+        "type": "node",
+        "id": 2400993421,
+        "lat": 44.4208941,
+        "lon": 26.1484535
+    },
+    {
+        "type": "node",
+        "id": 2400993422,
+        "lat": 44.4215675,
+        "lon": 26.1491438
+    },
+    {
+        "type": "node",
+        "id": 2400993424,
+        "lat": 44.4216959,
+        "lon": 26.1490376
+    },
+    {
+        "type": "node",
+        "id": 2400993426,
+        "lat": 44.4222271,
+        "lon": 26.1494289
+    },
+    {
+        "type": "node",
+        "id": 2400993428,
+        "lat": 44.4224932,
+        "lon": 26.1496278
+    },
+    {
+        "type": "node",
+        "id": 2400993429,
+        "lat": 44.4225562,
+        "lon": 26.1498906
+    },
+    {
+        "type": "node",
+        "id": 2400993430,
+        "lat": 44.4227083,
+        "lon": 26.1498238
+    },
+    {
+        "type": "node",
+        "id": 2400993431,
+        "lat": 44.4227388,
+        "lon": 26.1500731
+    },
+    {
+        "type": "node",
+        "id": 2400993434,
+        "lat": 44.4228893,
+        "lon": 26.1500081
+    },
+    {
+        "type": "node",
+        "id": 2400993435,
+        "lat": 44.4228897,
+        "lon": 26.1502737
+    },
+    {
+        "type": "node",
+        "id": 2400993436,
+        "lat": 44.4229753,
+        "lon": 26.1504149
+    },
+    {
+        "type": "node",
+        "id": 2400993437,
+        "lat": 44.4230302,
+        "lon": 26.1502036
+    },
+    {
+        "type": "node",
+        "id": 2400993438,
+        "lat": 44.4230464,
+        "lon": 26.1505413
+    },
+    {
+        "type": "node",
+        "id": 2400993439,
+        "lat": 44.4231117,
+        "lon": 26.1506972
+    },
+    {
+        "type": "node",
+        "id": 2400993440,
+        "lat": 44.4231177,
+        "lon": 26.1503712
+    },
+    {
+        "type": "node",
+        "id": 2400993441,
+        "lat": 44.4231407,
+        "lon": 26.1507606
+    },
+    {
+        "type": "node",
+        "id": 2400993442,
+        "lat": 44.4231860,
+        "lon": 26.1508904
+    },
+    {
+        "type": "node",
+        "id": 2400993443,
+        "lat": 44.4231925,
+        "lon": 26.1505243
+    },
+    {
+        "type": "node",
+        "id": 2400993444,
+        "lat": 44.4232594,
+        "lon": 26.1506873
+    },
+    {
+        "type": "node",
+        "id": 2400993445,
+        "lat": 44.4232620,
+        "lon": 26.1512234
+    },
+    {
+        "type": "node",
+        "id": 2400993446,
+        "lat": 44.4232999,
+        "lon": 26.1508035
+    },
+    {
+        "type": "node",
+        "id": 2400993447,
+        "lat": 44.4232977,
+        "lon": 26.1514573
+    },
+    {
+        "type": "node",
+        "id": 2400993448,
+        "lat": 44.4234073,
+        "lon": 26.1511907
+    },
+    {
+        "type": "node",
+        "id": 2400993450,
+        "lat": 44.4234535,
+        "lon": 26.1514156
+    },
+    {
+        "type": "node",
+        "id": 2400993451,
+        "lat": 44.4236282,
+        "lon": 26.1538415
+    },
+    {
+        "type": "node",
+        "id": 2400993452,
+        "lat": 44.4237549,
+        "lon": 26.1538123
+    },
+    {
+        "type": "node",
+        "id": 2400996434,
+        "lat": 44.4247636,
+        "lon": 26.1627201
+    },
+    {
+        "type": "node",
+        "id": 2400996435,
+        "lat": 44.4249407,
+        "lon": 26.1626684
+    },
+    {
+        "type": "node",
+        "id": 2400996436,
+        "lat": 44.4238299,
+        "lon": 26.1554756
+    },
+    {
+        "type": "node",
+        "id": 2400996439,
+        "lat": 44.4239385,
+        "lon": 26.1562741
+    },
+    {
+        "type": "node",
+        "id": 2400996441,
+        "lat": 44.4239620,
+        "lon": 26.1554458
+    },
+    {
+        "type": "node",
+        "id": 2400996445,
+        "lat": 44.4239997,
+        "lon": 26.1568623
+    },
+    {
+        "type": "node",
+        "id": 2400996447,
+        "lat": 44.4240707,
+        "lon": 26.1562443
+    },
+    {
+        "type": "node",
+        "id": 2400996451,
+        "lat": 44.4241607,
+        "lon": 26.1568251
+    },
+    {
+        "type": "node",
+        "id": 2400996455,
+        "lat": 44.4242086,
+        "lon": 26.1582696
+    },
+    {
+        "type": "node",
+        "id": 2400996460,
+        "lat": 44.4243165,
+        "lon": 26.1579189
+    },
+    {
+        "type": "node",
+        "id": 2400996462,
+        "lat": 44.4244511,
+        "lon": 26.1600938
+    },
+    {
+        "type": "node",
+        "id": 2400996464,
+        "lat": 44.4245157,
+        "lon": 26.1605622
+    },
+    {
+        "type": "node",
+        "id": 2400996466,
+        "lat": 44.4245825,
+        "lon": 26.1600653
+    },
+    {
+        "type": "node",
+        "id": 2400996468,
+        "lat": 44.4246621,
+        "lon": 26.1618347
+    },
+    {
+        "type": "node",
+        "id": 2400996472,
+        "lat": 44.4248127,
+        "lon": 26.1618043
+    },
+    {
+        "type": "node",
+        "id": 2400996474,
+        "lat": 44.4247910,
+        "lon": 26.1629139
+    },
+    {
+        "type": "node",
+        "id": 2400996483,
+        "lat": 44.4249650,
+        "lon": 26.1628778
+    },
+    {
+        "type": "node",
+        "id": 2418168350,
+        "lat": 44.4284633,
+        "lon": 26.1516071
+    },
+    {
+        "type": "node",
+        "id": 2437431578,
+        "lat": 44.4283902,
+        "lon": 26.1547529
+    },
+    {
+        "type": "node",
+        "id": 2437431584,
+        "lat": 44.4286937,
+        "lon": 26.1556541
+    },
+    {
+        "type": "node",
+        "id": 2437431586,
+        "lat": 44.4287308,
+        "lon": 26.1521638
+    },
+    {
+        "type": "node",
+        "id": 2437431589,
+        "lat": 44.4287417,
+        "lon": 26.1556324
+    },
+    {
+        "type": "node",
+        "id": 2437431634,
+        "lat": 44.4290548,
+        "lon": 26.1521003
+    },
+    {
+        "type": "node",
+        "id": 2437431658,
+        "lat": 44.4292651,
+        "lon": 26.1545720
+    },
+    {
+        "type": "node",
+        "id": 2437431661,
+        "lat": 44.4294643,
+        "lon": 26.1544305
+    },
+    {
+        "type": "node",
+        "id": 2437974152,
+        "lat": 44.4288175,
+        "lon": 26.1552639
+    },
+    {
+        "type": "node",
+        "id": 2437974155,
+        "lat": 44.4289480,
+        "lon": 26.1507615
+    },
+    {
+        "type": "node",
+        "id": 2437974160,
+        "lat": 44.4288453,
+        "lon": 26.1550232
+    },
+    {
+        "type": "node",
+        "id": 2437974162,
+        "lat": 44.4286972,
+        "lon": 26.1554406
+    },
+    {
+        "type": "node",
+        "id": 2437974165,
+        "lat": 44.4273412,
+        "lon": 26.1512743
+    },
+    {
+        "type": "node",
+        "id": 2443060228,
+        "lat": 44.4290717,
+        "lon": 26.1489515
+    },
+    {
+        "type": "node",
+        "id": 2443060229,
+        "lat": 44.4290996,
+        "lon": 26.1491530
+    },
+    {
+        "type": "node",
+        "id": 2443060230,
+        "lat": 44.4291248,
+        "lon": 26.1493444
+    },
+    {
+        "type": "node",
+        "id": 2443060231,
+        "lat": 44.4291645,
+        "lon": 26.1496569
+    },
+    {
+        "type": "node",
+        "id": 2443060232,
+        "lat": 44.4292255,
+        "lon": 26.1501019
+    },
+    {
+        "type": "node",
+        "id": 2443060233,
+        "lat": 44.4292578,
+        "lon": 26.1503731
+    },
+    {
+        "type": "node",
+        "id": 2447425081,
+        "lat": 44.4243735,
+        "lon": 26.1584930
+    },
+    {
+        "type": "node",
+        "id": 2447430430,
+        "lat": 44.4234273,
+        "lon": 26.1510811
+    },
+    {
+        "type": "node",
+        "id": 2453020678,
+        "lat": 44.4187544,
+        "lon": 26.1469203
+    },
+    {
+        "type": "node",
+        "id": 2514417445,
+        "lat": 44.4264804,
+        "lon": 26.1520348
+    },
+    {
+        "type": "node",
+        "id": 2514417451,
+        "lat": 44.4262794,
+        "lon": 26.1514558
+    },
+    {
+        "type": "node",
+        "id": 2529628669,
+        "lat": 44.4257814,
+        "lon": 26.1476233
+    },
+    {
+        "type": "node",
+        "id": 2529628675,
+        "lat": 44.4257384,
+        "lon": 26.1473448
+    },
+    {
+        "type": "node",
+        "id": 2529628677,
+        "lat": 44.4263794,
+        "lon": 26.1476863
+    },
+    {
+        "type": "node",
+        "id": 2529628678,
+        "lat": 44.4258858,
+        "lon": 26.1482998
+    },
+    {
+        "type": "node",
+        "id": 2529628682,
+        "lat": 44.4264085,
+        "lon": 26.1478952
+    },
+    {
+        "type": "node",
+        "id": 2592130348,
+        "lat": 44.4243484,
+        "lon": 26.1473992
+    },
+    {
+        "type": "node",
+        "id": 2813575188,
+        "lat": 44.4262949,
+        "lon": 26.1497874
+    },
+    {
+        "type": "node",
+        "id": 2898343901,
+        "lat": 44.4296670,
+        "lon": 26.1572937
+    },
+    {
+        "type": "node",
+        "id": 2901560542,
+        "lat": 44.4248472,
+        "lon": 26.1632483
+    },
+    {
+        "type": "node",
+        "id": 2901560549,
+        "lat": 44.4250091,
+        "lon": 26.1632003
+    },
+    {
+        "type": "node",
+        "id": 2921946464,
+        "lat": 44.4296132,
+        "lon": 26.1513376
+    },
+    {
+        "type": "node",
+        "id": 2921951332,
+        "lat": 44.4292968,
+        "lon": 26.1506839
+    },
+    {
+        "type": "node",
+        "id": 2968204334,
+        "lat": 44.4192479,
+        "lon": 26.1472717
+    },
+    {
+        "type": "node",
+        "id": 3052550759,
+        "lat": 44.4235407,
+        "lon": 26.1505649
+    },
+    {
+        "type": "node",
+        "id": 3054601947,
+        "lat": 44.4287580,
+        "lon": 26.1560100
+    },
+    {
+        "type": "node",
+        "id": 3054605947,
+        "lat": 44.4262438,
+        "lon": 26.1506505
+    },
+    {
+        "type": "node",
+        "id": 3054609041,
+        "lat": 44.4284235,
+        "lon": 26.1551817
+    },
+    {
+        "type": "node",
+        "id": 3054618533,
+        "lat": 44.4291211,
+        "lon": 26.1611279
+    },
+    {
+        "type": "node",
+        "id": 3054620233,
+        "lat": 44.4258954,
+        "lon": 26.1492012
+    },
+    {
+        "type": "node",
+        "id": 3054621633,
+        "lat": 44.4253206,
+        "lon": 26.1446315
+    },
+    {
+        "type": "node",
+        "id": 3054622633,
+        "lat": 44.4252626,
+        "lon": 26.1450485
+    },
+    {
+        "type": "node",
+        "id": 3072495335,
+        "lat": 44.4241299,
+        "lon": 26.1566255
+    },
+    {
+        "type": "node",
+        "id": 3072510433,
+        "lat": 44.4240621,
+        "lon": 26.1573502
+    },
+    {
+        "type": "node",
+        "id": 3084563313,
+        "lat": 44.4244941,
+        "lon": 26.1483277
+    },
+    {
+        "type": "node",
+        "id": 3091110049,
+        "lat": 44.4292068,
+        "lon": 26.1616132
+    },
+    {
+        "type": "node",
+        "id": 3098096829,
+        "lat": 44.4270320,
+        "lon": 26.1529065
+    },
+    {
+        "type": "node",
+        "id": 3098097330,
+        "lat": 44.4268218,
+        "lon": 26.1527949
+    },
+    {
+        "type": "node",
+        "id": 3098102229,
+        "lat": 44.4249752,
+        "lon": 26.1467401
+    },
+    {
+        "type": "node",
+        "id": 3301608061,
+        "lat": 44.4180874,
+        "lon": 26.1466430
+    },
+    {
+        "type": "node",
+        "id": 3378467947,
+        "lat": 44.4200609,
+        "lon": 26.1478534
+    },
+    {
+        "type": "node",
+        "id": 3877143899,
+        "lat": 44.4296558,
+        "lon": 26.1471508
+    },
+    {
+        "type": "node",
+        "id": 3888897756,
+        "lat": 44.4260489,
+        "lon": 26.1444432
+    },
+    {
+        "type": "node",
+        "id": 3888900361,
+        "lat": 44.4261476,
+        "lon": 26.1450912
+    },
+    {
+        "type": "node",
+        "id": 3888900362,
+        "lat": 44.4262514,
+        "lon": 26.1467525
+    },
+    {
+        "type": "node",
+        "id": 3888900367,
+        "lat": 44.4263122,
+        "lon": 26.1461135
+    },
+    {
+        "type": "node",
+        "id": 3888900443,
+        "lat": 44.4272824,
+        "lon": 26.1506257
+    },
+    {
+        "type": "node",
+        "id": 3888900562,
+        "lat": 44.4275729,
+        "lon": 26.1485268
+    },
+    {
+        "type": "node",
+        "id": 3915743949,
+        "lat": 44.4252300,
+        "lon": 26.1487768
+    },
+    {
+        "type": "node",
+        "id": 3915743950,
+        "lat": 44.4251665,
+        "lon": 26.1488483
+    },
+    {
+        "type": "node",
+        "id": 3915744462,
+        "lat": 44.4226983,
+        "lon": 26.1484790
+    },
+    {
+        "type": "node",
+        "id": 3949404191,
+        "lat": 44.4293468,
+        "lon": 26.1473674
+    },
+    {
+        "type": "node",
+        "id": 3949404228,
+        "lat": 44.4233969,
+        "lon": 26.1505044
+    },
+    {
+        "type": "node",
+        "id": 3949404236,
+        "lat": 44.4290193,
+        "lon": 26.1486047
+    },
+    {
+        "type": "node",
+        "id": 4037241539,
+        "lat": 44.4272630,
+        "lon": 26.1528095
+    },
+    {
+        "type": "node",
+        "id": 4037243108,
+        "lat": 44.4283159,
+        "lon": 26.1520984
+    },
+    {
+        "type": "node",
+        "id": 4037243115,
+        "lat": 44.4289219,
+        "lon": 26.1512010
+    },
+    {
+        "type": "node",
+        "id": 4037243116,
+        "lat": 44.4289273,
+        "lon": 26.1509356
+    },
+    {
+        "type": "node",
+        "id": 4037243117,
+        "lat": 44.4289143,
+        "lon": 26.1511244
+    },
+    {
+        "type": "node",
+        "id": 4037243119,
+        "lat": 44.4289136,
+        "lon": 26.1510509
+    },
+    {
+        "type": "node",
+        "id": 4037243124,
+        "lat": 44.4274649,
+        "lon": 26.1517069
+    },
+    {
+        "type": "node",
+        "id": 4037243125,
+        "lat": 44.4273914,
+        "lon": 26.1516393
+    },
+    {
+        "type": "node",
+        "id": 4037243128,
+        "lat": 44.4274173,
+        "lon": 26.1516733
+    },
+    {
+        "type": "node",
+        "id": 4037243131,
+        "lat": 44.4289414,
+        "lon": 26.1508598
+    },
+    {
+        "type": "node",
+        "id": 4037249237,
+        "lat": 44.4274932,
+        "lon": 26.1535731
+    },
+    {
+        "type": "node",
+        "id": 4196065664,
+        "lat": 44.4193701,
+        "lon": 26.1473587
+    },
+    {
+        "type": "node",
+        "id": 4261555697,
+        "lat": 44.4242846,
+        "lon": 26.1469937
+    },
+    {
+        "type": "node",
+        "id": 4261574990,
+        "lat": 44.4234000,
+        "lon": 26.1472431
+    },
+    {
+        "type": "node",
+        "id": 4330547875,
+        "lat": 44.4296682,
+        "lon": 26.1558206
+    },
+    {
+        "type": "node",
+        "id": 4330547990,
+        "lat": 44.4296953,
+        "lon": 26.1561437
+    },
+    {
+        "type": "node",
+        "id": 4330547991,
+        "lat": 44.4296797,
+        "lon": 26.1568038
+    },
+    {
+        "type": "node",
+        "id": 4330547997,
+        "lat": 44.4288011,
+        "lon": 26.1555333
+    },
+    {
+        "type": "node",
+        "id": 4363356215,
+        "lat": 44.4280484,
+        "lon": 26.1507995
+    },
+    {
+        "type": "node",
+        "id": 4363357597,
+        "lat": 44.4279271,
+        "lon": 26.1492121
+    },
+    {
+        "type": "node",
+        "id": 4363357598,
+        "lat": 44.4280727,
+        "lon": 26.1501597
+    },
+    {
+        "type": "node",
+        "id": 4363357599,
+        "lat": 44.4279505,
+        "lon": 26.1502053
+    },
+    {
+        "type": "node",
+        "id": 4379519679,
+        "lat": 44.4196445,
+        "lon": 26.1477587
+    },
+    {
+        "type": "node",
+        "id": 4379519682,
+        "lat": 44.4221903,
+        "lon": 26.1496142
+    },
+    {
+        "type": "node",
+        "id": 4379519684,
+        "lat": 44.4221286,
+        "lon": 26.1495662
+    },
+    {
+        "type": "node",
+        "id": 4379748450,
+        "lat": 44.4216336,
+        "lon": 26.1489921
+    },
+    {
+        "type": "node",
+        "id": 4379748455,
+        "lat": 44.4222181,
+        "lon": 26.1478770
+    },
+    {
+        "type": "node",
+        "id": 4550174551,
+        "lat": 44.4289287,
+        "lon": 26.1483254
+    },
+    {
+        "type": "node",
+        "id": 4550174555,
+        "lat": 44.4289870,
+        "lon": 26.1483988
+    },
+    {
+        "type": "node",
+        "id": 4573999196,
+        "lat": 44.4229810,
+        "lon": 26.1487500
+    },
+    {
+        "type": "node",
+        "id": 4573999197,
+        "lat": 44.4228827,
+        "lon": 26.1487275
+    },
+    {
+        "type": "node",
+        "id": 4582823673,
+        "lat": 44.4199682,
+        "lon": 26.1479946
+    },
+    {
+        "type": "node",
+        "id": 4582826501,
+        "lat": 44.4224078,
+        "lon": 26.1497769
+    },
+    {
+        "type": "node",
+        "id": 4604406920,
+        "lat": 44.4195196,
+        "lon": 26.1476690
+    },
+    {
+        "type": "node",
+        "id": 4800735779,
+        "lat": 44.4296054,
+        "lon": 26.1553736
+    },
+    {
+        "type": "node",
+        "id": 4819855795,
+        "lat": 44.4288277,
+        "lon": 26.1453798
+    },
+    {
+        "type": "node",
+        "id": 4819855796,
+        "lat": 44.4290364,
+        "lon": 26.1475850
+    },
+    {
+        "type": "node",
+        "id": 5062571521,
+        "lat": 44.4264123,
+        "lon": 26.1514710
+    },
+    {
+        "type": "node",
+        "id": 5062571522,
+        "lat": 44.4262359,
+        "lon": 26.1512899
+    },
+    {
+        "type": "node",
+        "id": 5062571531,
+        "lat": 44.4261695,
+        "lon": 26.1509829
+    },
+    {
+        "type": "node",
+        "id": 5062571534,
+        "lat": 44.4289902,
+        "lon": 26.1602659
+    },
+    {
+        "type": "node",
+        "id": 5062571543,
+        "lat": 44.4290322,
+        "lon": 26.1605655
+    },
+    {
+        "type": "node",
+        "id": 5062571546,
+        "lat": 44.4263242,
+        "lon": 26.1515982
+    },
+    {
+        "type": "node",
+        "id": 5062571547,
+        "lat": 44.4290738,
+        "lon": 26.1608411
+    },
+    {
+        "type": "node",
+        "id": 5257688842,
+        "lat": 44.4256736,
+        "lon": 26.1499675
+    },
+    {
+        "type": "node",
+        "id": 5257688843,
+        "lat": 44.4248762,
+        "lon": 26.1621787
+    },
+    {
+        "type": "node",
+        "id": 5768440114,
+        "lat": 44.4268291,
+        "lon": 26.1471488
+    },
+    {
+        "type": "node",
+        "id": 6260777486,
+        "lat": 44.4281456,
+        "lon": 26.1485913
+    },
+    {
+        "type": "node",
+        "id": 6260777494,
+        "lat": 44.4271431,
+        "lon": 26.1491460
+    },
+    {
+        "type": "node",
+        "id": 6260777496,
+        "lat": 44.4276067,
+        "lon": 26.1486297
+    },
+    {
+        "type": "node",
+        "id": 6260777501,
+        "lat": 44.4280202,
+        "lon": 26.1481901
+    },
+    {
+        "type": "node",
+        "id": 6260777502,
+        "lat": 44.4281368,
+        "lon": 26.1482372
+    },
+    {
+        "type": "node",
+        "id": 6262066195,
+        "lat": 44.4240329,
+        "lon": 26.1571526
+    },
+    {
+        "type": "node",
+        "id": 6262066196,
+        "lat": 44.4242092,
+        "lon": 26.1571087
+    },
+    {
+        "type": "node",
+        "id": 6262627585,
+        "lat": 44.4288647,
+        "lon": 26.1549280
+    },
+    {
+        "type": "node",
+        "id": 6262627602,
+        "lat": 44.4225803,
+        "lon": 26.1483273
+    },
+    {
+        "type": "node",
+        "id": 6262627604,
+        "lat": 44.4233419,
+        "lon": 26.1506428
+    },
+    {
+        "type": "node",
+        "id": 6262627605,
+        "lat": 44.4234730,
+        "lon": 26.1508823
+    },
+    {
+        "type": "node",
+        "id": 6262627606,
+        "lat": 44.4233753,
+        "lon": 26.1507463
+    },
+    {
+        "type": "node",
+        "id": 6264311968,
+        "lat": 44.4265635,
+        "lon": 26.1497113
+    },
+    {
+        "type": "node",
+        "id": 6266620930,
+        "lat": 44.4252416,
+        "lon": 26.1441315
+    },
+    {
+        "type": "node",
+        "id": 6266972420,
+        "lat": 44.4292168,
+        "lon": 26.1616715
+    },
+    {
+        "type": "node",
+        "id": 6357560397,
+        "lat": 44.4243432,
+        "lon": 26.1581903
+    },
+    {
+        "type": "node",
+        "id": 6512161703,
+        "lat": 44.4245476,
+        "lon": 26.1486718
+    },
+    {
+        "type": "node",
+        "id": 6512161706,
+        "lat": 44.4238007,
+        "lon": 26.1499280
+    },
+    {
+        "type": "node",
+        "id": 6512161707,
+        "lat": 44.4237794,
+        "lon": 26.1499684
+    },
+    {
+        "type": "node",
+        "id": 6512161708,
+        "lat": 44.4250284,
+        "lon": 26.1495826
+    },
+    {
+        "type": "node",
+        "id": 6512161709,
+        "lat": 44.4250715,
+        "lon": 26.1496054
+    },
+    {
+        "type": "node",
+        "id": 6512215396,
+        "lat": 44.4281473,
+        "lon": 26.1512159
+    },
+    {
+        "type": "node",
+        "id": 6512215397,
+        "lat": 44.4281663,
+        "lon": 26.1511872
+    },
+    {
+        "type": "node",
+        "id": 6512215398,
+        "lat": 44.4285033,
+        "lon": 26.1483370
+    },
+    {
+        "type": "node",
+        "id": 6512215399,
+        "lat": 44.4278349,
+        "lon": 26.1508221
+    },
+    {
+        "type": "node",
+        "id": 6512215400,
+        "lat": 44.4278859,
+        "lon": 26.1508501
+    },
+    {
+        "type": "node",
+        "id": 6512215401,
+        "lat": 44.4280726,
+        "lon": 26.1501477
+    },
+    {
+        "type": "node",
+        "id": 6512215402,
+        "lat": 44.4280672,
+        "lon": 26.1501671
+    },
+    {
+        "type": "node",
+        "id": 6512215403,
+        "lat": 44.4279350,
+        "lon": 26.1492015
+    },
+    {
+        "type": "node",
+        "id": 6512215404,
+        "lat": 44.4279260,
+        "lon": 26.1492226
+    },
+    {
+        "type": "node",
+        "id": 6512228567,
+        "lat": 44.4245423,
+        "lon": 26.1607755
+    },
+    {
+        "type": "node",
+        "id": 6512274295,
+        "lat": 44.4266225,
+        "lon": 26.1480907
+    },
+    {
+        "type": "node",
+        "id": 6512274296,
+        "lat": 44.4266574,
+        "lon": 26.1481163
+    },
+    {
+        "type": "node",
+        "id": 6513555196,
+        "lat": 44.4275819,
+        "lon": 26.1501881
+    },
+    {
+        "type": "node",
+        "id": 6513555197,
+        "lat": 44.4277214,
+        "lon": 26.1502136
+    },
+    {
+        "type": "node",
+        "id": 6513676233,
+        "lat": 44.4287706,
+        "lon": 26.1553078
+    },
+    {
+        "type": "node",
+        "id": 6513676234,
+        "lat": 44.4287185,
+        "lon": 26.1553309
+    },
+    {
+        "type": "node",
+        "id": 6513845119,
+        "lat": 44.4260671,
+        "lon": 26.1472460
+    },
+    {
+        "type": "node",
+        "id": 6513845120,
+        "lat": 44.4262935,
+        "lon": 26.1460492
+    },
+    {
+        "type": "node",
+        "id": 6513845121,
+        "lat": 44.4280440,
+        "lon": 26.1452923
+    },
+    {
+        "type": "node",
+        "id": 6513845122,
+        "lat": 44.4280774,
+        "lon": 26.1453232
+    },
+    {
+        "type": "node",
+        "id": 6513845123,
+        "lat": 44.4281177,
+        "lon": 26.1472498
+    },
+    {
+        "type": "node",
+        "id": 6513845124,
+        "lat": 44.4281511,
+        "lon": 26.1472765
+    },
+    {
+        "type": "node",
+        "id": 6513845125,
+        "lat": 44.4282066,
+        "lon": 26.1474521
+    },
+    {
+        "type": "node",
+        "id": 6513845126,
+        "lat": 44.4281732,
+        "lon": 26.1474351
+    },
+    {
+        "type": "node",
+        "id": 6513845127,
+        "lat": 44.4286113,
+        "lon": 26.1473705
+    },
+    {
+        "type": "node",
+        "id": 6879830498,
+        "lat": 44.4223267,
+        "lon": 26.1480146
+    },
+    {
+        "type": "node",
+        "id": 6897160370,
+        "lat": 44.4285379,
+        "lon": 26.1509834
+    },
+    {
+        "type": "node",
+        "id": 7590383434,
+        "lat": 44.4260877,
+        "lon": 26.1496255
+    },
+    {
+        "type": "node",
+        "id": 7590383435,
+        "lat": 44.4259636,
+        "lon": 26.1496516
+    },
+    {
+        "type": "node",
+        "id": 7590383436,
+        "lat": 44.4259004,
+        "lon": 26.1499018
+    },
+    {
+        "type": "node",
+        "id": 7590383437,
+        "lat": 44.4260341,
+        "lon": 26.1501440
+    },
+    {
+        "type": "node",
+        "id": 7590383438,
+        "lat": 44.4262271,
+        "lon": 26.1498065
+    },
+    {
+        "type": "node",
+        "id": 7590383439,
+        "lat": 44.4276309,
+        "lon": 26.1540045
+    },
+    {
+        "type": "node",
+        "id": 7877806528,
+        "lat": 44.4241516,
+        "lon": 26.1579722
+    },
+    {
+        "type": "node",
+        "id": 7877965108,
+        "lat": 44.4286026,
+        "lon": 26.1553172
+    },
+    {
+        "type": "node",
+        "id": 7877965111,
+        "lat": 44.4285260,
+        "lon": 26.1552636
+    },
+    {
+        "type": "node",
+        "id": 7877965121,
+        "lat": 44.4246924,
+        "lon": 26.1621053
+    },
+    {
+        "type": "node",
+        "id": 7877965340,
+        "lat": 44.4295411,
+        "lon": 26.1472312
+    },
+    {
+        "type": "node",
+        "id": 7877965398,
+        "lat": 44.4251682,
+        "lon": 26.1481379
+    },
+    {
+        "type": "node",
+        "id": 7877965425,
+        "lat": 44.4252435,
+        "lon": 26.1487001
+    },
+    {
+        "type": "node",
+        "id": 7877965529,
+        "lat": 44.4284627,
+        "lon": 26.1551997
+    },
+    {
+        "type": "node",
+        "id": 7877965530,
+        "lat": 44.4283683,
+        "lon": 26.1550971
+    },
+    {
+        "type": "node",
+        "id": 8347104761,
+        "lat": 44.4239512,
+        "lon": 26.1553481
+    },
+    {
+        "type": "node",
+        "id": 8347104762,
+        "lat": 44.4239414,
+        "lon": 26.1562954
+    },
+    {
+        "type": "node",
+        "id": 8347104763,
+        "lat": 44.4240778,
+        "lon": 26.1562901
+    },
+    {
+        "type": "node",
+        "id": 8566008561,
+        "lat": 44.4263545,
+        "lon": 26.1462030
+    },
+    {
+        "type": "node",
+        "id": 8566008562,
+        "lat": 44.4263657,
+        "lon": 26.1462578
+    },
+    {
+        "type": "node",
+        "id": 8566008563,
+        "lat": 44.4263637,
+        "lon": 26.1462981
+    },
+    {
+        "type": "node",
+        "id": 8566008564,
+        "lat": 44.4262872,
+        "lon": 26.1469924
+    },
+    {
+        "type": "node",
+        "id": 8566008565,
+        "lat": 44.4262756,
+        "lon": 26.1471548
+    },
+    {
+        "type": "node",
+        "id": 8566008566,
+        "lat": 44.4263429,
+        "lon": 26.1461799
+    },
+    {
+        "type": "node",
+        "id": 8566008577,
+        "lat": 44.4263016,
+        "lon": 26.1460814
+    },
+    {
+        "type": "node",
+        "id": 8779056227,
+        "lat": 44.4282005,
+        "lon": 26.1530282
+    },
+    {
+        "type": "node",
+        "id": 9084164836,
+        "lat": 44.4231839,
+        "lon": 26.1507371
+    },
+    {
+        "type": "node",
+        "id": 9084164837,
+        "lat": 44.4240665,
+        "lon": 26.1568468
+    },
+    {
+        "type": "node",
+        "id": 9084164872,
+        "lat": 44.4232271,
+        "lon": 26.1508599
+    },
+    {
+        "type": "node",
+        "id": 9102270987,
+        "lat": 44.4272066,
+        "lon": 26.1529465
+    },
+    {
+        "type": "node",
+        "id": 9102270990,
+        "lat": 44.4274542,
+        "lon": 26.1537412
+    },
+    {
+        "type": "node",
+        "id": 9102270991,
+        "lat": 44.4275275,
+        "lon": 26.1536229
+    },
+    {
+        "type": "node",
+        "id": 9108376749,
+        "lat": 44.4228349,
+        "lon": 26.1502009
+    },
+    {
+        "type": "node",
+        "id": 9327469512,
+        "lat": 44.4243852,
+        "lon": 26.1383768
+    },
+    {
+        "type": "node",
+        "id": 9388354304,
+        "lat": 44.4237515,
+        "lon": 26.1569588
+    },
+    {
+        "type": "node",
+        "id": 9587570150,
+        "lat": 44.4287244,
+        "lon": 26.1555365
+    },
+    {
+        "type": "node",
+        "id": 9587570151,
+        "lat": 44.4289709,
+        "lon": 26.1547043
+    },
+    {
+        "type": "node",
+        "id": 9587570152,
+        "lat": 44.4288926,
+        "lon": 26.1548535
+    },
+    {
+        "type": "node",
+        "id": 9587570153,
+        "lat": 44.4288277,
+        "lon": 26.1551514
+    },
+    {
+        "type": "node",
+        "id": 9587570154,
+        "lat": 44.4289823,
+        "lon": 26.1546298
+    },
+    {
+        "type": "node",
+        "id": 9587570155,
+        "lat": 44.4289881,
+        "lon": 26.1546778
+    },
+    {
+        "type": "node",
+        "id": 10741273568,
+        "lat": 44.4280065,
+        "lon": 26.1480996
+    },
+    {
+        "type": "node",
+        "id": 10751080506,
+        "lat": 44.4300315,
+        "lon": 26.1468693
+    },
+    {
+        "type": "node",
+        "id": 11030513395,
+        "lat": 44.4262626,
+        "lon": 26.1507578
+    },
+    {
+        "type": "node",
+        "id": 11030527517,
+        "lat": 44.4289502,
+        "lon": 26.1483381
+    },
+    {
+        "type": "node",
+        "id": 11030527518,
+        "lat": 44.4285409,
+        "lon": 26.1483512
+    },
+    {
+        "type": "node",
+        "id": 11030527519,
+        "lat": 44.4276152,
+        "lon": 26.1501995
+    },
+    {
+        "type": "node",
+        "id": 11030527520,
+        "lat": 44.4276932,
+        "lon": 26.1502039
+    },
+    {
+        "type": "node",
+        "id": 11030527521,
+        "lat": 44.4292330,
+        "lon": 26.1527869
+    },
+    {
+        "type": "node",
+        "id": 11030527522,
+        "lat": 44.4295010,
+        "lon": 26.1546782
+    },
+    {
+        "type": "node",
+        "id": 11428496641,
+        "lat": 44.4218001,
+        "lon": 26.1596505
+    }
+    ]
+}
+  
