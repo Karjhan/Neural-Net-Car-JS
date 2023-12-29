@@ -21,3 +21,29 @@ You have to serve this file in the browser. A simple solution is the Live Server
 Simply right-click the file and open using the extension server.
 
 ![VirtualWorldSetup](./screenshots/SSVirtualWorldSetup.png)
+
+The editor supports: 
+1. addition of roads and intersections
+2. importing a world from a file
+3. saving a world in file format and localstorage(if size allows it)
+4. deleting the current world (clearing the canvas)
+5. addition of markings:
+    - stop
+    - yield
+    - crossing
+    - parking
+    - target
+    - start (start point for a car)
+    - light
+
+## Self Driving Car
+The project itself lies in a separate folder and the union with an existing world in another folder.
+The main purpose is to setup a testing environment for a neural network to learn how drive a car based on the setup.
+There are no UI controls for this one, so the car input scenario, or the neural network can be reconfigured from code.
+
+In order to open the project, navigate to *Project-Joins/src/index.html*. 
+You have to serve this file in the browser. A simple solution is the Live Server extension in VS Code.
+
+Simply right-click the file and open using the extension server.
+
+![VirtualWorldSetup](./screenshots/SSProjectJoinsSetup1.png)
