@@ -47,3 +47,15 @@ You have to serve this file in the browser. A simple solution is the Live Server
 Simply right-click the file and open using the extension server.
 
 ![VirtualWorldSetup](./screenshots/SSProjectJoinsSetup1.png)
+
+## Visuals
+
+### Virtual World Editor
+![VirtualWorldSetup](./screenshots/SSVirtualWorldExample.png)
+### Self Driving Car
+![VirtualWorldSetup](./screenshots/SSSelfDrivingCarExample.png)
+### Self Driving Car In World Setup
+![VirtualWorldSetup](./screenshots/SSProjectJoinsExample.png)
+
+## Contact
+Feel free to contact me at: karjhan1999@gmail.com
