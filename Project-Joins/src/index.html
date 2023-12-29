@@ -29,6 +29,9 @@
     <script src="../virtual-world-utils/primitives/segment.js" defer></script>
     <script src="../virtual-world-utils/primitives/polygon.js" defer></script>
     <script src="../virtual-world-utils/primitives/envelope.js" defer></script>    
+    <script src="../virtual-world-utils/miniMap.js" defer></script>  
+
+    <script src = "../assets/world-bucharest-example.World" defer></script>
 
     <script src="../self-driving-utils/utils.js" defer></script>
     <script src="../self-driving-utils/network.js" defer></script>
@@ -44,5 +47,8 @@
         <button onclick="save()">💾</button>
         <button onclick="discard()">🗑️</button>
     </div>
-    <canvas id="networkCanvas"></canvas>
+    <div>
+        <canvas id="networkCanvas"></canvas>
+        <canvas id="miniMapCanvas"></canvas>
+    </div>
 </body>
