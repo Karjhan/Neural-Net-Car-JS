@@ -19,4 +19,5 @@ In order to open the project, navigate to *Virtual-World-JS/src/index.html*.
 You have to serve this file in the browser. A simple solution is the Live Server extension in VS Code.
 
 Simply right-click the file and open using the extension server.
+
 ![VirtualWorldSetup](./screenshots/SSVirtualWorldSetup.png)
