@@ -41,6 +41,8 @@ The project itself lies in a separate folder and the union with an existing worl
 The main purpose is to setup a testing environment for a neural network to learn how drive a car based on the setup.
 There are no UI controls for this one, so the car input scenario, or the neural network can be reconfigured from code.
 
+The neural network is set with only 1 hidden layer by default, with the results of 1 of the 4 directions.
+
 In order to open the project, navigate to *Project-Joins/src/index.html*. 
 You have to serve this file in the browser. A simple solution is the Live Server extension in VS Code.
 
